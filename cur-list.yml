@@ -1,38 +1,38 @@
 version: 1
 default:
   -
-    id: jpop_chara_i_miss_you
+    id: jpop/chara_i_miss_you
     vid: nBONQ1g7PZs
     ver: 1
     t1: Chara I miss you
     t2: 독특하고 몽환적인 목소리 Chara
   -
-    id: jpop_chara_kataomoi
+    id: jpop/chara_kataomoi
     vid: nBONQ1g7PZs
     ver: 1
     t1: Chara - 片想い
     t2: 독특하고 몽환적인 목소리 Chara의 짝사랑 노래
   -
-    id: jpop_chara_ainouta
+    id: jpop/chara_ainouta
     vid: J8qwu1w5t6E
     ver: 1
     t1: Swallowtail Butterfly -Aino Uta- (Remastered 2015)
     t2: Chara의 사랑 노래
 jpop:
   -
-    id: jpop_chara_i_miss_you
+    id: jpop/chara_i_miss_you
     vid: nBONQ1g7PZs
     ver: 1
     t1: Chara I miss you
     t2: 독특하고 몽환적인 목소리 Chara
   -
-    id: jpop_chara_kataomoi
+    id: jpop/chara_kataomoi
     vid: nBONQ1g7PZs
     ver: 1
     t1: Chara - 片想い
     t2: 독특하고 몽환적인 목소리 Chara의 짝사랑 노래
   -
-    id: jpop_chara_ainouta
+    id: jpop/chara_ainouta
     vid: J8qwu1w5t6E
     ver: 1
     t1: Swallowtail Butterfly -Aino Uta- (Remastered 2015)
