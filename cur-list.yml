@@ -21,6 +21,48 @@ default:
     ver: 1
     t1: Swallowtail Butterfly -Aino Uta- (Remastered 2015)
     t2: Chara의 사랑 노래
+  -
+    t1: Official髭男dism - Pretender［Official Video］
+    t2: 짝사랑 노래
+    id: pretender
+    vid: TQ8WlA2GXbk
+    dir: jpop
+  -
+    t1: 瞳をとじて 平井堅
+    t2: 세상의 중심에서 사랑을 외치다 OST
+    id: meotojite
+    vid: YHYPH358cHg
+    dir: jpop
+  -
+    t1: 魔法って言っていいかな？／平井堅（Cover）
+    t2: 아름다운 화음
+    id: mahou
+    vid: S1aBMas4Jnw
+    dir: jpop
+  -
+    t1: カブトムシ - aiko（フル）
+    t2: カブトムシ - aiko（フル）
+    id: aiko_kabu
+    vid: vCBlyz7VmS8
+    dir: jpop
+  -
+    t1: Sign／Mr Children（Cover）
+    t2: Sign／MrChildren 노래 커버영상
+    id: sign
+    vid: lzk4efmFQW4
+    dir: jpop
+  -
+    t1: さつま白波「オヤジの、芋神様。」ＷＥＢムービー 
+    t2: 아버지의 고구마 신 고구마 소주 CM 영상
+    id: soju
+    vid: JrL1lHNon3A
+    dir: jani
+  -
+    t1: Love Letter(1995) - Sweet Memories
+    t2: 가슴 먹먹해지는 영화 속 장면과 함께 더 진하게 느껴지는 그녀의 목소리 독특한 발음
+    id: sweet_memory
+    vid: -EQj36_yiY0
+    dir: jmovie
 jpop:
   -
     dir: jpop
@@ -43,3 +85,370 @@ jpop:
     ver: 1
     t1: Swallowtail Butterfly -Aino Uta- (Remastered 2015)
     t2: Chara의 사랑 노래
+  -
+    t1: Official髭男dism - Pretender［Official Video］
+    t2: 짝사랑 노래
+    id: pretender
+    vid: TQ8WlA2GXbk
+    dir: jpop
+  -
+    t1: カブトムシ - aiko（フル）
+    t2: カブトムシ - aiko（フル）
+    id: aiko_kabu
+    vid: vCBlyz7VmS8
+    dir: jpop
+  -
+    t1: 魔法って言っていいかな？／平井堅（Cover）
+    t2: 아름다운 화음
+    id: mahou
+    vid: S1aBMas4Jnw
+    dir: jpop
+  -
+    t1: Sign／Mr Children（Cover）
+    t2: Sign／MrChildren 노래 커버영상
+    id: sign
+    vid: lzk4efmFQW4
+    dir: jpop
+  -
+    t1: KK 『アマテラス』　（MUSIC VIDEO）
+    t2: 일본 우타이테 KK [아마테라스]
+    id: amaterasu
+    vid: L4nkrSIfXIk
+    dir: jpop
+  -
+    t1: 【MEN ON STYLE 2015】Days
+    t2: 나가세 타스쿠 작사작곡의 '맨 온 스타일 2015'신곡 DAYS
+    id: menofstyle1
+    vid: HpMP0fHaAuc
+    dir: jpop
+  -
+    t1: 上北 健 「ミスト」 MusicVideo
+    t2: 카미키타 켄(KK) - 미스트
+    id: mist
+    vid: f1srPatcDBA
+    dir: jpop
+  -
+    t1: Sanctuary Lena Park 박정현
+    t2: 갓정현 미아의 일본어 버전판
+    id: sanctuary
+    vid: jhPLmmFBQ7o
+    dir: jpop
+  -
+    t1: 上北 健 「DIARY」
+    t2: 노래도 좋고 가사도 너무 좋은 가을 감성의 노래
+    id: diary
+    vid: MkrAZi7GMpI
+    dir: jpop
+  -
+    t1: 小さな恋のうた
+    t2: 작은 사랑의 노래 전해지길 바라며
+    id: koinouta
+    vid: Woorod1gJ_w
+    dir: jpop
+  -
+    t1: Olivia-Fall in love
+    t2: Olivia - Fall in love
+    id: fall_in_love
+    vid: 2daEEOYBy2c
+    dir: jpop
+  -
+    t1: Aiko-初恋
+    t2: 귀여운 첫 사랑 노래
+    id: aiko_hatukoi_short
+    vid: H-3Igr7Yx-A
+    dir: jpop
+  -
+    t1: Aiko-えりあし
+    t2: Aiko-えりあし
+    id: aiko_eriasi_short
+    vid: AoFeFHhezFk
+    dir: jpop
+  -
+    t1: Love Letter(1995) - Sweet Memories
+    t2: 가슴 먹먹해지는 영화 속 장면과 함께 더 진하게 느껴지는 그녀의 목소리 독특한 발음
+    id: sweet_memory
+    vid: -EQj36_yiY0
+    dir: jpop
+  -
+    t1: EXILE / Ki・mi・ni・mu・chu
+    t2: EXILE / Ki・mi・ni・mu・chu
+    id: exile
+    vid: bzhER32wO_U
+    dir: jpop
+  -
+    t1: Aiko - 三国駅
+    t2: 변하지 않는 거리 저기의 볼링장..\n선명하게 그려지는 그녀의 추억
+    id: aiko_mikuni_short
+    vid: fdP9DqRT9i8
+    dir: jpop
+  -
+    t1: My Little Lover - Shooting Star
+    t2: 달콤한 슈팅 스타같은 노래 
+    id: shootingstar
+    vid: oH61SYXC_6M
+    dir: jpop
+  -
+    t1: My Little Lover - Hello Again～昔からある場所～
+    t2: 달콤한 목소리 My Little Lover의 라이브
+    id: helloagain
+    vid: lV6mRpmEEIs
+    dir: jpop
+  -
+    t1: ひだまりの詩／Le Couple
+    t2: 낯익은 멜로디의 노래 (:
+    id: hidamari
+    vid: kdEb-16-nyo
+    dir: jpop
+  -
+    t1: 瞳をとじて 平井堅
+    t2: 세상의 중심에서 사랑을 외치다 OST
+    id: meotojite
+    vid: YHYPH358cHg
+    dir: jpop
+  -
+    t1: JUJU-Playback
+    t2: Juju - 다시 들려줘요 너의 목소리、 중독성 있는 멜로디 (: 자막 수정 완료~
+    id: juju_playback
+    vid: D4dWIHnCbGw
+    dir: jpop
+  -
+    t1: 西野カナ with LOVE tour_Stand Up
+    t2: 밝은 메시지의 노래 (: 일어서요~!
+    id: standup
+    vid: t-HeJ1a8gao
+    dir: jpop
+  -
+    t1: Mr.Children「花 -Mémento-Mori-
+    t2: Memento Mori의 뜻을 아시나요?
+    id: memento_mori
+    vid: aoPbnoboyok
+    dir: jpop
+  -
+    t1: SAY YES - CHAGE & ASKA
+    t2: 일드 101번째 프로포즈의 OST
+    id: sayyes
+    vid: Q9qAyt0G-jM
+    dir: jpop
+  -
+    t1: 負けないで - ZARD
+    t2: ZARD 너무 귀엽고 사랑스러운 목소리
+    id: zard
+    vid: rtZLe6T3Dh0
+    dir: jpop
+  -
+    t1: らいおんハート - SMAP
+    t2: 달콤한 가사
+    id: lion
+    vid: MdRCoN-4ZBE
+    dir: jpop
+  -
+    t1: 박정현Chemistry - Dance with me
+    t2: 라이브로도 즐겨보아요! (:
+    id: dance_with_me_live
+    vid: XBomtzMEOW8
+    dir: jpop
+  -
+    t1: 倉木麻衣 - Secret Of My Heart
+    t2: 쿠라키 마이 - 명탐정 코난 ED09
+    id: secretofmyheart
+    vid: Kz7AmrzRf-s
+    dir: jpop
+  -
+    t1: 嵐-青空の下
+    t2: 아라시 Arashi
+    id: Arashi1
+    vid: j7CakYzDma4
+    dir: jpop
+  -
+    t1: kiroro - Best Friend
+    t2: 목소리가 고운 가수 키로로
+    id: best_friend
+    vid: fQBsNmbXY98
+    dir: jpop
+  -
+    t1: Melodies of Life
+    t2: FF9의 OST 잔잔한 멜로디 의외로 심도있는 가사
+    id: melodies_of_life
+    vid: fmShPzYD9ng
+    dir: jpop
+  -
+    t1: Mr.Children 君が好き
+    t2: 이쁜 멜로디 가사 뮤직 비디오 (:
+    id: kimiga
+    vid: Vfw4gVhjtso
+    dir: jpop
+  -
+    t1: Mr.Children「Tomorrow never knows」Music Video
+    t2: 솔직한 자기 자신과 인생을 바라보는 노래
+    id: tomorrow
+    vid: vc1U0w8kqoQ
+    dir: jpop
+  -
+    t1: X Japan - Endless Rain
+    t2: 전설의 X Japan 마지막 라이브 콘서트
+    id: endlessrain
+    vid: ztvMwmPaByg
+    dir: jpop
+  -
+    t1: X Japan - Tears
+    t2: 국내에서 잠시만 안녕이란 곡으로 리메이크된 고음작렬의 노래
+    id: tears
+    vid: I2EgeY3Dcns
+    dir: jpop
+  -
+    t1: GIRL TALK / 安室奈美恵
+    t2: 아무로 나미에 - Girl Talk
+    id: girltalk
+    vid: qsQdZjjY6mk
+    dir: jpop
+  -
+    t1: 宇多田ヒカル - First Love
+    t2: 마지막 키스는 담배의 향이..
+    id: firstkiss
+    vid: o1sUaVJUeB0
+    dir: jpop
+  -
+    t1: 大塚愛 大好きだよ
+    t2: 오오츠카 아이 잔잔하고 진심이 느껴지는 가창력도 좋은 라이브!
+    id: ai_daisuki
+    vid: ZI9Yf5l7X6Y
+    dir: jpop
+  -
+    t1: Misia - Everything
+    t2: やまとなでしこ OST 여성의 깊은 사랑을 표현한 노래
+    id: misia_everything2
+    vid: aHIR33pOUv0
+    dir: jpop
+  -
+    t1: 나카시마 미카 - 눈의 꽃
+    t2: 미안한다 사랑한다의 주제가의 원곡 박효신이 리메이크한 것으로 유명
+    id: yukinohana
+    vid: aRQxLcPrLes
+    dir: jpop
+  -
+    t1: くるみ / Mr.Children
+    t2: 절망 앞에서도 미래의 희망을 바라보는 가사 뮤직비디오의 감동
+    id: mrchildren_kurumi
+    vid: 3CXBTMHgTWk
+    dir: jpop
+  -
+    t1: Mr.children - Over
+    t2: 이별을 담담하고 밝은 멜로디로 표현한 슬픈 가사의 노래
+    id: mrchildren_over
+    vid: _7LUiL5zHY8
+    dir: jpop
+  -
+    t1: 桑田佳祐 - 明日晴れるかな
+    t2: プロポーズ大作戦OST 간절한 마음이 느껴지는 노래
+    id: asitaha
+    vid: y2nWIwmM8Y0
+    dir: jpop
+  -
+    t1: 卒業写真 - 荒井由実
+    t2: 졸업앨범 그리고 청춘 그 골목
+    id: sotugyou
+    vid: drP4GpMEtd8
+    dir: jpop
+  -
+    t1: Mr.children - しるし
+    t2: 진정성이 느껴지는 사랑 노래
+    id: mrchildren_sirusi
+    vid: JaVI0tPwa8g
+    dir: jpop
+  -
+    t1: 涙そうそう
+    t2: 눈물이 주룩주룩 오빠에 대한 그리운 마음
+    id: nadasou
+    vid: bXho3NK2CDw
+    dir: jpop
+jmedia:
+  -
+    t1: さつま白波「オヤジの、芋神様。」ＷＥＢムービー 
+    t2: 아버지의 고구마 신 고구마 소주 CM 영상
+    id: soju
+    vid: JrL1lHNon3A
+    dir: jmedia
+  -
+    t1: マルコメ 料亭の味 即席生みそ汁 単身赴任篇 90秒 
+    t2: 단신부임한 아빠와 딸 둘의 요리 단편 CM  
+    id: marukome
+    vid: kF5SSiuZGAM
+    dir: jmedia
+  -
+    t1: 늑대아이
+    t2: 투정거리는 늑대 아이
+    id: manma
+    vid: r7P8KdT7YmI
+    dir: jmedia
+  -
+    t1: 도라에몽OST
+    t2: 도라에몽OST
+    id: doraemon
+    vid: wBozBh7BR6k
+    dir: jmedia
+  -
+    t1: 僕の生きる道
+    t2: 시한부 인생을 알게된 남자주인공의 동료 결혼식장에서의 축하 메시지 
+    id: bokuno
+    vid: 8J1ljUJYSog
+    dir: jmedia
+  -
+    t1:  世界の中心で、愛をさけぶ 
+    t2: 세상의 중심에서 사랑을 외치다.
+    id: sekai
+    vid: j5dPM2crKoU
+    dir: jmedia
+  -
+    t1: さつま白波「オヤジの、芋神様。」ＷＥＢムービー 
+    t2: 아버지의 고구마 신 고구마 소주 CM 영상
+    id: soju
+    vid: JrL1lHNon3A
+    dir: jmedia
+  -
+    t1: マルコメ 料亭の味 即席生みそ汁 単身赴任篇 90秒 
+    t2: 단신부임한 아빠와 딸 둘의 요리 단편 CM  
+    id: marukome
+    vid: kF5SSiuZGAM
+    dir: jmedia
+  -
+    t1: 늑대아이
+    t2: 투정거리는 늑대 아이
+    id: manma
+    vid: r7P8KdT7YmI
+    dir: jmedia
+  -
+    t1: 일본예능 레전드 영상 일진 맞짱 몰카
+    t2: 드라마 GTO(2012)의 홍보 영상 촬영 중 주연배우 AKIRA에 대한 몰래카메라
+    id: gtocomic
+    vid: _4uB8kIsxRU
+    dir: jmedia
+  -
+    t1: 東京湾で消防庁と海保が救助訓練　船の火災を想定(16/12/10
+    t2: 도쿄만 소방훈련 뉴스(16년12월10일
+    id: news2
+    vid: f7hlMBLnwzI
+    dir: jmedia
+  -
+    t1: [2014/12/23] 気象予報士・岡村真美子(30) 最後の天気予報 [ニュース7]
+    t2: 듣기 연습에 좋은 일본 기상 예보 뉴스
+    id: news
+    vid: L8zNK2vFlBE
+    dir: jmedia
+  -
+    t1: すべての人生が、すばらしい
+    t2: 인생은 마라톤이 아니다.
+    id: marathon
+    vid: kaKQHsUM3Po
+    dir: jmedia
+  -
+    t1: ヤフーニュースで話題となった泣けるCM 盛岡の音楽教室 東山堂
+    t2: 아버지의 피아노 연주 눈물 나는 CM
+    id: musiccourse
+    vid: RQ7ifrSOzV8
+    dir: jmedia
+  -
+    t1: おもしろＣＭ　シュレッダーさん
+    t2: 재미로 보는 짧은 CM
+    id: iisigoto
+    vid: OM1EXdN7dWg
+    dir: jmedia
