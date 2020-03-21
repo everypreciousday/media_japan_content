@@ -1,9 +1,5 @@
 # -*- conding: utf-8 -*-
-import requests
-import urllib.request
-import json
 import time
-import xmltodict
 import pprint
 import re
 import os.path
