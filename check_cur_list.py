@@ -16,6 +16,7 @@ class Item:
         self.ver = ""
         self.t1 = ""
         self.t2 = ""
+
     def print(self):
         print ("  -")
         print ("    dir: " + self.dir)
@@ -31,6 +32,13 @@ class Item:
     def check_file(self):
         if self.id == "" or self.dir == "":
             return True
+
+        # id should be lower cased.
+        lowered = self.id.lower()
+        if self.id != lowered:
+            print("id has upper case")
+            self.print()
+
         check_path = self.dir + "\\" + self.id + ".html"
         if os.path.isfile(self.dir + "\\" + self.id + ".html") == False:
             print (check_path + " not exist!!!")
