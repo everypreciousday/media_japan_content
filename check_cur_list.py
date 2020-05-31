@@ -12,6 +12,7 @@ TARGET_FILE_PATH = "cur-list.yml"
 class Item:
     def __init__(self):
         self.uid = ""
+        self.enabled = ""
         self.dir = ""
         self.vid = ""
         self.ver = ""
@@ -25,11 +26,13 @@ class Item:
         print ("    ver: " + self.ver)
         print ("    t1: " + self.t1)
         print ("    t2: " + self.t2)
+        print ("    enabled: " + self.enabled)
 
     def check_field(self):
-        if self.uid == "" or self.dir == "" or self.vid == "" or self.ver == "" or self.t1 == "" or self.t2 == "":
+        if self.uid == "" or self.dir == "" or self.vid == "" or self.ver == "" or self.t1 == "" or self.t2 == "" or self.enabled == "":
             print ("!!something is missing:")
             self.print()
+
     def check_file(self):
         if self.uid == "" or self.dir == "":
             return True
@@ -91,3 +94,5 @@ for line in lines:
         item.t1 = line.split(":")[1].strip()
     elif line.startswith("t2"):
         item.t2 = line.split(":")[1].strip()
+    elif line.startswith("enabled"):
+        item.enabled= line.split(":")[1].strip()
