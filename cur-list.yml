@@ -5,7 +5,7 @@ jpop:
     uid: chara_i_miss_you
     vid: nBONQ1g7PZs
     ver: 1
-    enabled: true
+    enabled: false
     t1: "Chara I miss you"
     t2: "독특하고 몽환적인 목소리 Chara"
   -
@@ -13,7 +13,7 @@ jpop:
     uid: chara_kataomoi
     vid: nBONQ1g7PZs
     ver: 1
-    enabled: true
+    enabled: false
     t1: "Chara - 片想い"
     t2: "독특하고 몽환적인 목소리 Chara의 짝사랑 노래"
   -
@@ -21,7 +21,7 @@ jpop:
     uid: chara_ainouta
     vid: J8qwu1w5t6E
     ver: 1
-    enabled: true
+    enabled: false
     t1: "Swallowtail Butterfly -Aino Uta- (Remastered 2015)"
     t2: "Chara의 사랑 노래"
   -
@@ -42,7 +42,7 @@ jpop:
     dir: jpop
   -
     ver: 1
-    enabled: true
+    enabled: false
     t1: "魔法って言っていいかな？／平井堅（Cover）"
     t2: "아름다운 화음"
     uid: mahou
@@ -58,7 +58,7 @@ jpop:
     dir: jpop
   -
     ver: 1
-    enabled: true
+    enabled: false
     t1: "KK 『アマテラス』　（MUSIC VIDEO）"
     t2: "일본 우타이테 KK [아마테라스]"
     uid: amaterasu
@@ -106,7 +106,7 @@ jpop:
     dir: jpop
   -
     ver: 1
-    enabled: true
+    enabled: false
     t1: "Olivia-Fall in love"
     t2: "Olivia - Fall in love"
     uid: fall_in_love
@@ -114,7 +114,7 @@ jpop:
     dir: jpop
   -
     ver: 1
-    enabled: true
+    enabled: false
     t1: "Aiko-初恋"
     t2: "귀여운 첫 사랑 노래"
     uid: aiko_hatukoi_short
@@ -122,7 +122,7 @@ jpop:
     dir: jpop
   -
     ver: 1
-    enabled: true
+    enabled: false
     t1: "Aiko-えりあし"
     t2: "Aiko-えりあし"
     uid: aiko_eriasi_short
@@ -146,7 +146,7 @@ jpop:
     dir: jpop
   -
     ver: 1
-    enabled: true
+    enabled: false
     t1: "Aiko - 三国駅"
     t2: "변하지 않는 거리 저기의 볼링장..\n선명하게 그려지는 그녀의 추억"
     uid: aiko_mikuni_short
@@ -266,7 +266,7 @@ jpop:
     dir: jpop
   -
     ver: 1
-    enabled: true
+    enabled: false
     t1: "Melodies of Life"
     t2: "FF9의 OST 잔잔한 멜로디 의외로 심도있는 가사"
     uid: melodies_of_life
@@ -274,7 +274,7 @@ jpop:
     dir: jpop
   -
     ver: 1
-    enabled: true
+    enabled: false
     t1: "Mr.Children 君が好き"
     t2: "이쁜 멜로디 가사 뮤직 비디오 (:"
     uid: kimiga
@@ -282,7 +282,7 @@ jpop:
     dir: jpop
   -
     ver: 1
-    enabled: true
+    enabled: false
     t1: "Mr.Children「Tomorrow never knows」Music Video"
     t2: "솔직한 자기 자신과 인생을 바라보는 노래"
     uid: tomorrow
@@ -354,7 +354,7 @@ jpop:
     dir: jpop
   -
     ver: 1
-    enabled: true
+    enabled: false
     t1: "Mr.children - Over"
     t2: "이별을 담담하고 밝은 멜로디로 표현한 슬픈 가사의 노래"
     uid: mrchildren_over
@@ -467,7 +467,7 @@ jmedia:
     dir: jmedia
   -
     ver: 1
-    enabled: true
+    enabled: false
     t1: "일본예능 레전드 영상 일진 맞짱 몰카"
     t2: "드라마 GTO(2012)의 홍보 영상 촬영 중 주연배우 AKIRA에 대한 몰래카메라"
     uid: gtocomic
