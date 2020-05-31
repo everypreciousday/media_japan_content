@@ -3,6 +3,7 @@ import time
 import pprint
 import re
 import os.path
+from pathlib import Path
 
 pp = pprint.PrettyPrinter(indent=4)
 
@@ -10,7 +11,7 @@ TARGET_FILE_PATH = "cur-list.yml"
 
 class Item:
     def __init__(self):
-        self.id = ""
+        self.uid = ""
         self.dir = ""
         self.vid = ""
         self.ver = ""
@@ -20,28 +21,29 @@ class Item:
     def print(self):
         print ("  -")
         print ("    dir: " + self.dir)
-        print ("    id: " + self.id)
+        print ("    uid: " + self.uid)
         print ("    ver: " + self.ver)
         print ("    t1: " + self.t1)
         print ("    t2: " + self.t2)
 
     def check_field(self):
-        if self.id == "" or self.dir == "" or self.vid == "" or self.ver == "" or self.t1 == "" or self.t2 == "":
+        if self.uid == "" or self.dir == "" or self.vid == "" or self.ver == "" or self.t1 == "" or self.t2 == "":
             print ("!!something is missing:")
             self.print()
     def check_file(self):
-        if self.id == "" or self.dir == "":
+        if self.uid == "" or self.dir == "":
             return True
 
         # id should be lower cased.
-        lowered = self.id.lower()
-        if self.id != lowered:
-            print("id has upper case")
+        lowered = self.uid.lower()
+        if self.uid != lowered:
+            print("uid has upper case")
             self.print()
 
-        check_path = self.dir + "\\" + self.id + ".html"
-        if os.path.isfile(self.dir + "\\" + self.id + ".html") == False:
-            print (check_path + " not exist!!!")
+        check_path = Path(self.dir)
+        check_file_name = self.uid + ".md"
+        if os.path.isfile(check_path / check_file_name) == False:
+            print (self.dir + "/" + check_file_name + " not exist!!!")
 
 fp = open(TARGET_FILE_PATH, "r",encoding='UTF8')
 
@@ -59,8 +61,8 @@ for line in lines:
         item.check_field()
         item.check_file()
         item = Item()
-    elif line.startswith("id"):
-        item.id = line.split(":")[1].strip()
+    elif line.startswith("uid"):
+        item.uid = line.split(":")[1].strip()
     elif line.startswith("dir"):
         item.dir = line.split(":")[1].strip()
     elif line.startswith("vid"):
