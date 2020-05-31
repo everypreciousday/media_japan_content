@@ -93,5 +93,5 @@
 난 지금 당장 너가 보고 싶어<br>
 <Ruby><rb>僕</rb><rt>ぼく</rt></Ruby>は<Ruby><rb>今</rb><rt>いま</rt></Ruby>すぐ<Ruby><rb>君</rb><rt>きみ</rt></Ruby>に<Ruby><rb>会</rb><rt>あ</rt></Ruby>いたい<br>
 난 지금 당장 너가 보고 싶어<br>
-<br>---
+---<br>
 <h2>end</h2>

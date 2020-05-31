@@ -130,5 +130,5 @@
 ---<br>
 <Ruby>心<rt>こころ</rt></Ruby>の<Ruby>中<rt>なか</rt></Ruby>に<Ruby>永遠<rt>えいえん</rt></Ruby>なる<Ruby>花<rt>はな</rt></Ruby>をさかそう<br>
 마음속에 영원한 꽃을 피우자<br>
-<br>---
+---<br>
 <h2>end</h2>

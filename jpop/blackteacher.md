@@ -193,5 +193,5 @@ TV에 나오는 배우나<br>
 ---<br>
 さあ すべてを<Ruby><rb>超</rb><rt>こ</rt></Ruby>える OVER<br>
 자, 모든 것을 뛰어넘자 OVER<br>
-<br>---
+---<br>
 <h2>end</h2>

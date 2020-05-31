@@ -42,11 +42,29 @@ class Item:
 
         check_path = Path(self.dir)
         check_file_name = self.uid + ".md"
-        if os.path.isfile(check_path / check_file_name) == False:
-            print (self.dir + "/" + check_file_name + " not exist!!!")
+        the_path = check_path / check_file_name
+        if os.path.isfile(the_path) == False:
+            print (the_path + " not exist!!!")
+
+        # check whether each sentence finish with <br> 
+        f = open(the_path, "r", encoding='UTF8')
+        lines = f.readlines()
+        for line in lines:
+            result = re.match(r"^<h1>.*", line)
+            if result:
+                continue
+
+            result = re.match(r"^<h2>.*", line)
+            if result:
+                continue
+
+            result = re.match(r".*<br>$", line)
+            if result:
+                continue
+            
+            print(str(the_path) + "\n" + line)
 
 fp = open(TARGET_FILE_PATH, "r",encoding='UTF8')
-
 lines = fp.readlines()
 item = Item()
 cnt = 0

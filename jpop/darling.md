@@ -194,5 +194,5 @@ Darling<br>
 ---<br>
 <ruby>終<rt>お</rt></ruby>わり<br>
 끝(:<br>
-<br>---
+---<br>
 <h2>end</h2>

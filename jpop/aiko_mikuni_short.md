@@ -101,5 +101,5 @@
 ---<br>
 <ruby>繋<rt>つな</rt></ruby>いだ<ruby>手<rt>て</rt></ruby>を<ruby>離<rt>はな</rt></ruby>したくない<br>
 붙잡은 손을 놓고 싶지 않아<br>
-<br>---
+---<br>
 <h2>end</h2>

@@ -131,5 +131,5 @@
 싹 튼 날들과<br>
 2人の<ruby>帰<rt>かえ</rt></ruby>り<ruby>道<rt>みち</rt></ruby><br>
 두 사람의 귀가길<br>
-<br>---
+---<br>
 <h2>end</h2>

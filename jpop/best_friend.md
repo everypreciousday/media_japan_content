@@ -146,5 +146,5 @@ Best Friend<br>
 Best Friend<br>
 ---<br>
 끝(:<br>
-<br>---
+---<br>
 <h2>end</h2>

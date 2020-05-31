@@ -73,5 +73,5 @@
 사고의 원인을<br>
 <Ruby><rb>調</rb><rt>しら</rt></Ruby>べる<Ruby><rb>方針</rb><rt>ほうしん</rt></Ruby>です。<br>
 조사할 방침입니다.<br>
-<br>---
+---<br>
 <h2>end</h2>

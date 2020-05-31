@@ -73,5 +73,5 @@
 ---<br>
 <ruby>運命<rt>うんめい</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>にも<ruby>会<rt>あ</rt></ruby>えるかも」)<br>
 운명의 사람도 만날지도<br>
-<br>---
+---<br>
 <h2>end</h2>

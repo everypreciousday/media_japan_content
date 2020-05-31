@@ -237,5 +237,5 @@ goodbye to myself<br>
 ---<br>
 <Ruby>消<rt>け</rt></Ruby>し<Ruby>去<rt>さ</rt></Ruby>るまで<br>
 사라질 때까지<br>
-<br>---
+---<br>
 <h2>end</h2>

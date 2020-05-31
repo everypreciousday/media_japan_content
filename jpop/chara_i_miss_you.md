@@ -109,7 +109,7 @@
 그대로 괜찮으니까<br>
 ---<br>
 <ruby>大好<rt>だいす</rt></ruby>きなあなたのことを<br>
-많이 좋아해 당신을
+많이 좋아해 당신을<br>
 <ruby>想<rt>おも</rt></ruby>って<ruby>歌<rt>うた</rt></ruby>う<ruby>私<rt>わたし</rt></ruby>を<br>
 생각하며 노래하는 나를<br>
 ---<br>

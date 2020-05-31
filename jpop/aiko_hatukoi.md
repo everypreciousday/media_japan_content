@@ -171,5 +171,5 @@
 ---<br>
 2人に<Ruby>距離<rt>きょり</rt></Ruby>が<Ruby>出来<rt>でき</rt></Ruby>ない<Ruby>様<rt>よう</rt></Ruby>に<br>
 둘 간에 거리가 생기지 않도록<br>
-<br>---
+---<br>
 <h2>end</h2>

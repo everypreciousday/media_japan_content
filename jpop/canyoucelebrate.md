@@ -89,5 +89,5 @@ I can celebrate<br>
 ﻿<br>
 <ruby><rb>終</rb><rt>お</rt></ruby>わり<br>
 끝(:<br>
-<br>---
+---<br>
 <h2>end</h2>
