@@ -1,4 +1,4 @@
-<h1>sakuraame.txt</h1>
+<h1>sakuraame.txt</h1><br>
 <h2>voca</h2><br>
 <Ruby>背中<rt>せなか</rt></Ruby><br>
 등<br>
@@ -238,4 +238,4 @@ goodbye to myself<br>
 <Ruby>消<rt>け</rt></Ruby>し<Ruby>去<rt>さ</rt></Ruby>るまで<br>
 사라질 때까지<br>
 ---<br>
-<h2>end</h2>
+<h2>end</h2><br>

@@ -1,4 +1,4 @@
-<h1>aiko_kabu.txt</h1>
+<h1>aiko_kabu.txt</h1><br>
 <h2>voca</h2><br>
 <h2>content</h2><br>
 <ruby>悩<rt>なや</rt></ruby>んでる<ruby>体<rt>からだ</rt></ruby>が<ruby>熱<rt>あつ</rt></ruby>くて<br>
@@ -114,4 +114,4 @@
 <ruby>生涯<rt>しょうがい</rt></ruby><ruby>忘<rt>わす</rt></ruby>れることはないでしょう<br>
 평생 잊지 않은데요.<br>
 ---<br>
-<h2>end</h2>
+<h2>end</h2><br>

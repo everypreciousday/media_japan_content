@@ -1,4 +1,4 @@
-<h1>aiko_boy.txt</h1>
+<h1>aiko_boy.txt</h1><br>
 <h2>voca</h2><br>
 <h2>content</h2><br>
 <ruby>早<rt>はや</rt></ruby>く<ruby>逢<rt>あ</rt></ruby>って<ruby>言<rt>い</rt></ruby>いたい<br>
@@ -175,4 +175,4 @@ boy friend<br>
 ボーイフレンド<br>
 보이 프렌드<br>
 ---<br>
-<h2>end</h2>
+<h2>end</h2><br>

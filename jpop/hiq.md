@@ -1,4 +1,4 @@
-<h1>hiq.txt</h1>
+<h1>hiq.txt</h1><br>
 <h2>voca</h2><br>
 <Ruby><rb>目一杯</rb><rt>めいっぱい</rt></Ruby><br>
 힘껏<br>
@@ -105,4 +105,4 @@
 ヒカリアレ<br>
 빛이 있으리<br>
 ---<br>
-<h2>end</h2>
+<h2>end</h2><br>

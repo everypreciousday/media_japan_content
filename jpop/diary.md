@@ -1,4 +1,4 @@
-<h1>diary.txt</h1>
+<h1>diary.txt</h1><br>
 <h2>voca</h2><br>
 <Ruby>零<rt>こぼ</rt></Ruby>す<br>
 불평[푸념]하다; 투덜대다;<br>
@@ -222,4 +222,4 @@
 <ruby><rb>終</rb><rt>お</rt></ruby>わり<br>
 끝(:<br>
 ---<br>
-<h2>end</h2>
+<h2>end</h2><br>

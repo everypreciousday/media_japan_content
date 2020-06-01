@@ -1,4 +1,4 @@
-<h1>darling_short.txt</h1>
+<h1>darling_short.txt</h1><br>
 <h2>voca</h2><br>
 <Ruby>裏返<rt>うらがえ</rt></Ruby>し<br>
 뒤집음; 또, 뒤집혀 있음.<br>
@@ -147,4 +147,4 @@ Darling<br>
 <ruby><rb>終</rb><rt>お</rt></ruby>わり<br>
 끝(:<br>
 ---<br>
-<h2>end</h2>
+<h2>end</h2><br>

@@ -1,4 +1,4 @@
-<h1>sorega.txt</h1>
+<h1>sorega.txt</h1><br>
 <h2>voca</h2><br>
 <Ruby><rb>素足</rb><rt>すあし</rt></Ruby><br>
 맨발<br>
@@ -244,4 +244,4 @@
 <Ruby><rb>感</rb><rt>かん</rt></Ruby>じられるだろうか<br>
 느낄 수 있지 않을까<br>
 ---<br>
-<h2>end</h2>
+<h2>end</h2><br>

@@ -1,4 +1,4 @@
-<h1>meotojite.txt</h1>
+<h1>meotojite.txt</h1><br>
 <h2>voca</h2><br>
 <Ruby>抜<rt>ぬ</rt></Ruby>け<Ruby>殻<rt>がら</rt></Ruby><br>
 (뱀·매미 등의) 허물; 벗은 껍질.<br>
@@ -165,4 +165,4 @@ your love forever<br>
 <Ruby>君<rt>きみ</rt></Ruby>がくれたから<br>
 그대가 주었으니까...<br>
 ---<br>
-<h2>end</h2>
+<h2>end</h2><br>

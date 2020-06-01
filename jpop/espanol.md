@@ -1,4 +1,4 @@
-<h1>espanol.txt</h1>
+<h1>espanol.txt</h1><br>
 <h2>voca</h2><br>
 <Ruby><rb>傷</rb><rt>きず</rt></Ruby><br>
 상처<br>
@@ -205,4 +205,4 @@
 きっと<Ruby><rb>照</rb><rt>て</rt></Ruby>らしてくれる<br>
 반드시 밝혀줄 거야<br>
 ---<br>
-<h2>end</h2>
+<h2>end</h2><br>

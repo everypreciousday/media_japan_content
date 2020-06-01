@@ -1,4 +1,4 @@
-<h1>aiko_hatukoi_short.txt</h1>
+<h1>aiko_hatukoi_short.txt</h1><br>
 <h2>voca</h2><br>
 まばたき<br>
 눈을깜빡임<br>
@@ -124,4 +124,4 @@
 いつもまどわされて...<br>
 언제나 혼란스러워<br>
 ---<br>
-<h2>end</h2>
+<h2>end</h2><br>

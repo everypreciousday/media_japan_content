@@ -1,4 +1,4 @@
-<h1>mist.txt</h1>
+<h1>mist.txt</h1><br>
 <h2>voca</h2><br>
 <Ruby><rb>羽</rb><rt>はね</rt></Ruby><br>
 날개<br>
@@ -203,4 +203,4 @@
 <Ruby><rb>僕</rb><rt>ぼく</rt></Ruby>らを<Ruby><rb>探</rb><rt>さが</rt></Ruby>してる<br>
 우리들을 찾고 있어<br>
 ---<br>
-<h2>end</h2>
+<h2>end</h2><br>

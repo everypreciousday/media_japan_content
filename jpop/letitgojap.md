@@ -1,4 +1,4 @@
-<h1>letitgojap.txt</h1>
+<h1>letitgojap.txt</h1><br>
 <h2>voca</h2><br>
 <Ruby>足跡<rt>あしあと</rt></Ruby><br>
 발자국<br>
@@ -156,4 +156,4 @@
 <ruby>終<rt>お</rt></ruby>わり<br>
 끝(:<br>
 ---<br>
-<h2>end</h2>
+<h2>end</h2><br>

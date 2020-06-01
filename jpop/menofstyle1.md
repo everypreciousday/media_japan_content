@@ -1,4 +1,4 @@
-<h1>menofstyle1.txt</h1>
+<h1>menofstyle1.txt</h1><br>
 <h2>voca</h2><br>
 <Ruby><rb>睨</rb><rt>にら</rt></Ruby>みつける<br>
 째려보다, 노려보다<br>
@@ -89,4 +89,4 @@ Days<br>
 ららららら。。。<br>
 라라라라...<br>
 ---<br>
-<h2>end</h2>
+<h2>end</h2><br>

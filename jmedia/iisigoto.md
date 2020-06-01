@@ -1,4 +1,4 @@
-<h1>iisigoto.txt</h1>
+<h1>iisigoto.txt</h1><br>
 <h2>voca</h2><br>
 <h2>content</h2><br>
 もっといい<Ruby>仕事<rt>しごと</rt></Ruby>をあなたに<br>
@@ -6,4 +6,4 @@
 いちにさんこ<br>
 1,2,3,5<br>
 ---<br>
-<h2>end</h2>
+<h2>end</h2><br>

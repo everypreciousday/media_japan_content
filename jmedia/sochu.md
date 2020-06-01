@@ -1,4 +1,4 @@
-<h1>sochu.txt</h1>
+<h1>sochu.txt</h1><br>
 <h2>voca</h2><br>
 <Ruby>主<rt>おも</rt></Ruby>に<br>
 주로<br>
@@ -93,4 +93,4 @@
 <Ruby>可能性<rt>かのうせい</rt></Ruby>が<Ruby>考<rt>かんが</rt></Ruby>えられます。<br>
 가능성이 유추됩니다.<br>
 ---<br>
-<h2>end</h2>
+<h2>end</h2><br>

@@ -1,4 +1,4 @@
-<h1>ye1.txt</h1>
+<h1>ye1.txt</h1><br>
 <h2>voca</h2><br>
 <Ruby><rb>抑</rb><rt>おさ</rt></Ruby>えきれない<br>
 억누르지 못하다, 참지 못하다<br>
@@ -351,4 +351,4 @@
 これで<Ruby><rb>安心</rb><rt>あんしん</rt></Ruby>しました<br>
 이제야 안심됬습니다<br>
 ---<br>
-<h2>end</h2>
+<h2>end</h2><br>

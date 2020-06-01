@@ -1,4 +1,4 @@
-<h1>kuraki.txt</h1>
+<h1>kuraki.txt</h1><br>
 <h2>voca</h2><br>
 <Ruby>曖昧<rt>あいまい</rt></Ruby><br>
 모호; 애매<br>
@@ -131,4 +131,4 @@ My heart is waiting for your love,<br>
 L.O.V.E<br>
 one more day<br>
 ---<br>
-<h2>end</h2>
+<h2>end</h2><br>

@@ -1,4 +1,4 @@
-<h1>news3.txt</h1>
+<h1>news3.txt</h1><br>
 <h2>voca</h2><br>
 <Ruby><rb>絡</rb><rt>から</rt></Ruby>む<br>
 얽히다.<br>
@@ -74,4 +74,4 @@
 <Ruby><rb>調</rb><rt>しら</rt></Ruby>べる<Ruby><rb>方針</rb><rt>ほうしん</rt></Ruby>です。<br>
 조사할 방침입니다.<br>
 ---<br>
-<h2>end</h2>
+<h2>end</h2><br>

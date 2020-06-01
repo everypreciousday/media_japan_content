@@ -1,4 +1,4 @@
-<h1>sign.txt</h1>
+<h1>sign.txt</h1><br>
 <h2>voca</h2><br>
 <Ruby><rb>重</rb><rt>かさ</rt></Ruby>ねる<br>
 겹치다<br>
@@ -143,4 +143,4 @@
 そんなことを<Ruby><rb>考</rb><rt>かんが</rt></Ruby>えている<br>
 그런 것을 생각하고 있어<br>
 ---<br>
-<h2>end</h2>
+<h2>end</h2><br>

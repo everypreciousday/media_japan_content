@@ -1,4 +1,4 @@
-<h1>pretender.txt</h1>
+<h1>pretender.txt</h1><br>
 <h2>voca</h2><br>
 <h2>content</h2><br>
 <ruby>君<rt>きみ</rt></ruby>とのラブストーリー<br>
@@ -206,4 +206,4 @@
 <ruby>終<rt>お</rt></ruby>わり<br>
 끝 :)<br>
 ---<br>
-<h2>end</h2>
+<h2>end</h2><br>

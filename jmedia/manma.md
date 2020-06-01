@@ -1,4 +1,4 @@
-<h1>manma.txt</h1>
+<h1>manma.txt</h1><br>
 <h2>voca</h2><br>
 <Ruby>愚図</rb><rt>ぐず</rt></Ruby>る<br>
 떼를 쓰다.<br>
@@ -134,4 +134,4 @@
 잘할거란말이야.<br>
 잘할거란말이야.<br>
 ---<br>
-<h2>end</h2>
+<h2>end</h2><br>

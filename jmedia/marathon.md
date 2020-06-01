@@ -1,4 +1,4 @@
-<h1>marathon.txt</h1>
+<h1>marathon.txt</h1><br>
 <h2>voca</h2><br>
 <Ruby>後戻<rt>あともど</rt></Ruby>り<br>
 후퇴<br>
@@ -162,4 +162,4 @@
 <Ruby>出会<rt>であ</rt></Ruby>い<br>
 만남<br>
 ---<br>
-<h2>end</h2>
+<h2>end</h2><br>

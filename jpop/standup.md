@@ -1,4 +1,4 @@
-<h1>standup.txt</h1>
+<h1>standup.txt</h1><br>
 <h2>voca</h2><br>
 <Ruby>味方<rt>みかた</rt></Ruby><br>
 자기 편; 아군; 우군.<br>
@@ -224,4 +224,4 @@ Yeah Yeah Yeah Yeah Yeah<br>
 <ruby>終<rt>お</rt></ruby>わり<br>
 끝(:<br>
 ---<br>
-<h2>end</h2>
+<h2>end</h2><br>

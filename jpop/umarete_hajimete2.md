@@ -1,4 +1,4 @@
-<h1>umarete_hajimete2.txt</h1>
+<h1>umarete_hajimete2.txt</h1><br>
 <h2>voca</h2><br>
 <ruby>触<rt>ふ</rt></ruby>れる<br>
 접촉하다; 닿다.<br>
@@ -68,4 +68,4 @@
 <ruby>終<rt>お</rt></ruby>わり～<br>
 끝~<br>
 ---<br>
-<h2>end</h2>
+<h2>end</h2><br>

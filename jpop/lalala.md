@@ -1,4 +1,4 @@
-<h1>lalala.txt</h1>
+<h1>lalala.txt</h1><br>
 ﻿***VOCASTART***<br>
 <h2>content</h2><br>
 ちっぽけな<Ruby><rb>緣起</rb><rt>えんぎ</rt></Ruby>かついで<br>
@@ -196,4 +196,4 @@
 <ruby><rb>終</rb><rt>お</rt></ruby>わり<br>
 끝(:<br>
 ---<br>
-<h2>end</h2>
+<h2>end</h2><br>

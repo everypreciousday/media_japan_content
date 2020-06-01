@@ -1,4 +1,4 @@
-<h1>ginnosara.txt</h1>
+<h1>ginnosara.txt</h1><br>
 <h2>voca</h2><br>
 <h2>content</h2><br>
 そういえば<br>
@@ -152,4 +152,4 @@
 <ruby>強<rt>つよ</rt></ruby>くなる.<br>
 강해진다.<br>
 ---<br>
-<h2>end</h2>
+<h2>end</h2><br>

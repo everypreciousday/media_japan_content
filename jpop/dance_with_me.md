@@ -1,4 +1,4 @@
-<h1>dance_with_me.txt</h1>
+<h1>dance_with_me.txt</h1><br>
 <h2>voca</h2><br>
 <Ruby>溜<rt>た</rt></Ruby>め<Ruby>息<rt>いき</rt></Ruby><br>
 한숨<br>
@@ -86,4 +86,4 @@ cause I song for you all the time -<br>
 ---<br>
 끝(:<br>
 ---<br>
-<h2>end</h2>
+<h2>end</h2><br>

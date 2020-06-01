@@ -1,4 +1,4 @@
-<h1>soju.txt</h1>
+<h1>soju.txt</h1><br>
 <h2>voca</h2><br>
 <Ruby><rb>神様</rb><rt>かみさま</rt></Ruby><br>
 신<br>
@@ -104,4 +104,4 @@
 いつも<Ruby><rb>新</rb><rt>あたら</rt></Ruby>しい。＞<br>
 언제나 새롭다><br>
 ---<br>
-<h2>end</h2>
+<h2>end</h2><br>

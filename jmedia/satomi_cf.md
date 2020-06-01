@@ -1,4 +1,4 @@
-<h1>satomi_cf.txt</h1>
+<h1>satomi_cf.txt</h1><br>
 <h2>voca</h2><br>
 うなじ<br>
 목덜미<br>
@@ -378,4 +378,4 @@
 <Ruby>夏<rt>なつ</rt></Ruby>、<Ruby>君<rt>きみ</rt></Ruby>と、ふんわり<Ruby>鏡月<rt>きょうげつ</rt></Ruby>。<br>
 여름 그대와 부드러운 경월<br>
 ---<br>
-<h2>end</h2>
+<h2>end</h2><br>

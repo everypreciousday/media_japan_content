@@ -1,4 +1,4 @@
-<h1>aiko_eriasi_short.txt</h1>
+<h1>aiko_eriasi_short.txt</h1><br>
 <h2>voca</h2><br>
 ぶつ<br>
 치다 때리다<br>
@@ -80,4 +80,4 @@
 short버전이라 아쉽네요. 이 노래의 하이라이트는 마지막 가사입니다.<br>
 기회가 된다면 꼭 들어보세요 ^^<br>
 ---<br>
-<h2>end</h2>
+<h2>end</h2><br>

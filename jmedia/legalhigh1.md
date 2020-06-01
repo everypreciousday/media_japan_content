@@ -1,4 +1,4 @@
-<h1>legalhigh1.txt</h1>
+<h1>legalhigh1.txt</h1><br>
 <h2>voca</h2><br>
 <h2>content</h2><br>
 完全復活・古美門研介!<br>
@@ -870,4 +870,4 @@ Oh, My god<br>
 ・・・リターン<br>
 ...리턴<br>
 ---<br>
-<h2>end</h2>
+<h2>end</h2><br>

@@ -1,4 +1,4 @@
-<h1>tibi.txt</h1>
+<h1>tibi.txt</h1><br>
 <h2>voca</h2><br>
 <Ruby>鍋<rt>なべ</rt></Ruby><br>
 냄비<br>
@@ -107,4 +107,4 @@
 ブタのプータロー<br>
 돼지백수~<br>
 ---<br>
-<h2>end</h2>
+<h2>end</h2><br>

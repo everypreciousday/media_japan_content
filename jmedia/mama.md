@@ -1,4 +1,4 @@
-<h1>mama.txt</h1>
+<h1>mama.txt</h1><br>
 <h2>voca</h2><br>
 <h2>content</h2><br>
 1<ruby><rb>歳児健診</rb><rt>さいじけんしん</rt></ruby>の<ruby><rb>日</rb><rt>ひ</rt></ruby>。<br>
@@ -155,4 +155,4 @@
 <ruby><rb>終</rb><rt>お</rt></ruby>わり<br>
 끝(:<br>
 ---<br>
-<h2>end</h2>
+<h2>end</h2><br>

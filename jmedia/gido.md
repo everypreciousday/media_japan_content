@@ -1,4 +1,4 @@
-<h1>gido.txt</h1>
+<h1>gido.txt</h1><br>
 <h2>voca</h2><br>
 <h2>content</h2><br>
 <Ruby><rb>何十回目</rb><rt>なんじゅうかいめ</rt></Ruby>の<br>
@@ -93,4 +93,4 @@
 힘내세요!<br>
 대한민국 청춘들도<br>
 ---<br>
-<h2>end</h2>
+<h2>end</h2><br>

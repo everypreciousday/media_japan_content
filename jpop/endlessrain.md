@@ -1,4 +1,4 @@
-<h1>endlessrain.txt</h1>
+<h1>endlessrain.txt</h1><br>
 ﻿***VOCASTART***<br>
 <h2>content</h2><br>
 I am walking in the rain<br>
@@ -125,4 +125,4 @@ Let me forget all of the hate, all of the sadness<br>
 <ruby><rb>終</rb><rt>お</rt></ruby>わり<br>
 끝(:<br>
 ---<br>
-<h2>end</h2>
+<h2>end</h2><br>

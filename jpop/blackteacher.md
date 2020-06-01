@@ -1,4 +1,4 @@
-<h1>blackteacher.txt</h1>
+<h1>blackteacher.txt</h1><br>
 <h2>voca</h2><br>
 <Ruby><rb>辿</rb><rt>たど</rt></Ruby>り<Ruby><rb>着</rb><rt>つ</rt></Ruby>く<br>
 당도하다, 다다르다<br>
@@ -194,4 +194,4 @@ TV에 나오는 배우나<br>
 さあ すべてを<Ruby><rb>超</rb><rt>こ</rt></Ruby>える OVER<br>
 자, 모든 것을 뛰어넘자 OVER<br>
 ---<br>
-<h2>end</h2>
+<h2>end</h2><br>

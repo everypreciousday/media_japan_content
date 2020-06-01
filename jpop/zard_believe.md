@@ -1,4 +1,4 @@
-<h1>zard_believe.txt</h1>
+<h1>zard_believe.txt</h1><br>
 <h2>voca</h2><br>
 たどりつく<br>
 길을 묻고 물어[고생 끝에] 겨우 다다르다.<br>
@@ -125,4 +125,4 @@ Just believe in love<br>
 <ruby><rb>終</rb><rt>お</rt></ruby>わり<br>
 끝(:<br>
 ---<br>
-<h2>end</h2>
+<h2>end</h2><br>

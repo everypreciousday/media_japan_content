@@ -1,4 +1,4 @@
-<h1>kettkon1.txt</h1>
+<h1>kettkon1.txt</h1><br>
 <h2>voca</h2><br>
 <h2>content</h2><br>
 <Ruby>ミックス<rt>みっくす</rt></Ruby>です<br>
@@ -54,4 +54,4 @@
 <Ruby>美味しい<rt>おいしい</rt></Ruby><br>
 맛있어요!<br>
 ---<br>
-<h2>end</h2>
+<h2>end</h2><br>

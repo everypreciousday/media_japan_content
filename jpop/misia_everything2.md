@@ -1,4 +1,4 @@
-<h1>misia_everything2.txt</h1>
+<h1>misia_everything2.txt</h1><br>
 <h2>voca</h2><br>
 <h2>content</h2><br>
 すれ<ruby><rb>違</rb><rt>ちが</rt></ruby>う<ruby><rb>時</rb><rt>とき</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>で<br>
@@ -173,4 +173,4 @@ You are everything<br>
 <ruby><rb>終</rb><rt>お</rt></ruby>わり<br>
 끝(:<br>
 ---<br>
-<h2>end</h2>
+<h2>end</h2><br>

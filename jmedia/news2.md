@@ -1,4 +1,4 @@
-<h1>news2.txt</h1>
+<h1>news2.txt</h1><br>
 <h2>voca</h2><br>
 <Ruby><rb>行</rb><rt>おこな</rt></Ruby>う<br>
 하다. 시행하다.<br>
@@ -89,4 +89,4 @@
 <Ruby><rb>連携</rb><rt>れんけい</rt></Ruby>などを<Ruby><rb>確認</rb><rt>かくにん</rt></Ruby>しました。<br>
 제휴과정 등을 확인했습니다.<br>
 ---<br>
-<h2>end</h2>
+<h2>end</h2><br>

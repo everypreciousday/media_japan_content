@@ -1,4 +1,4 @@
-<h1>canyoucelebrate.txt</h1>
+<h1>canyoucelebrate.txt</h1><br>
 ﻿***VOCASTART***<br>
 <h2>content</h2><br>
 Can you celebrate?<br>
@@ -90,4 +90,4 @@ I can celebrate<br>
 <ruby><rb>終</rb><rt>お</rt></ruby>わり<br>
 끝(:<br>
 ---<br>
-<h2>end</h2>
+<h2>end</h2><br>

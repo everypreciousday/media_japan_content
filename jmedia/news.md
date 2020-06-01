@@ -1,4 +1,4 @@
-<h1>news.txt</h1>
+<h1>news.txt</h1><br>
 <h2>voca</h2><br>
 <h2>content</h2><br>
 <Ruby><rb>気象</rb><rt>きしょう</rt></Ruby><Ruby><rb>情報</rb><rt>じょうほう</rt></Ruby>、<br>
@@ -190,4 +190,4 @@
 <ruby><rb>終</rb><rt>お</rt></ruby>わり<br>
 끝(:<br>
 ---<br>
-<h2>end</h2>
+<h2>end</h2><br>

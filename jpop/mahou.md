@@ -1,4 +1,4 @@
-<h1>mahou.txt</h1>
+<h1>mahou.txt</h1><br>
 <h2>voca</h2><br>
 <Ruby><rb>眩</rb><rt>まぶ</rt></Ruby>しい<br>
 눈부시다<br>
@@ -157,4 +157,4 @@
 そして<Ruby><rb>大好</rb><rt>だいす</rt></Ruby>きの<Ruby><rb>キス</rb><rt>きす</rt></Ruby><br>
 그리고 사랑의 키스<br>
 ---<br>
-<h2>end</h2>
+<h2>end</h2><br>

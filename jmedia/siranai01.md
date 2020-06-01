@@ -1,4 +1,4 @@
-<h1>siranai01.txt</h1>
+<h1>siranai01.txt</h1><br>
 <h2>voca</h2><br>
 <h2>content</h2><br>
 日本人も知らない日本語<br>
@@ -1789,4 +1789,4 @@ A나 B나.<br>
 <ruby><rb>約束</rb><rt>やくそく</rt></ruby>だからな。カリスマ<ruby><rb>先生</rb><rt>せんせい</rt></ruby>！<br>
 약속이니까.카리스마 선생님!<br>
 ---<br>
-<h2>end</h2>
+<h2>end</h2><br>

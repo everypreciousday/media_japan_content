@@ -1,4 +1,4 @@
-<h1>umarete_hajimete1.txt</h1>
+<h1>umarete_hajimete1.txt</h1><br>
 <h2>voca</h2><br>
 たいかんしき<br>
 대관식<br>
@@ -74,4 +74,4 @@
 <ruby>運命<rt>うんめい</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>にも<ruby>会<rt>あ</rt></ruby>えるかも」)<br>
 운명의 사람도 만날지도<br>
 ---<br>
-<h2>end</h2>
+<h2>end</h2><br>

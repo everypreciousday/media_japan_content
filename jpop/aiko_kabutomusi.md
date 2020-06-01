@@ -1,4 +1,4 @@
-<h1>aiko_kabutoshi.txt</h1>
+<h1>aiko_kabutoshi.txt</h1><br>
 <Ruby>悩<rt>なや</rt></Ruby>んでる<Ruby>身体<rt>しんたい</rt></Ruby>が<Ruby>熱<rt>あつ</rt></Ruby>くて<br>
 고민하는 몸이 뜨거운데<br>
 <Ruby>指先<rt>ゆびさき</rt></Ruby>は<Ruby>凍<rt>こご</rt></Ruby>える<Ruby>程<rt>ほど</rt></Ruby><Ruby>冷<rt>つめ</rt></Ruby>たい<br>
@@ -123,4 +123,4 @@
 ないでしょう<br>
 없을거야<br>
 ---<br>
-<h2>end</h2>
+<h2>end</h2><br>

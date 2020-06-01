@@ -1,4 +1,4 @@
-<h1>renaijidai1.txt</h1>
+<h1>renaijidai1.txt</h1><br>
 <h2>voca</h2><br>
 <h2>content</h2><br>
 うわ～すごい｡<br>
@@ -1564,4 +1564,4 @@ C씨 당신 자신을 그 쪽에 소개하면.<br>
 ここにいい<Ruby><rb>男</rb><rt>おとこ</rt></Ruby><Ruby><rb>居</rb><rt>い</rt></Ruby>ない？<br>
 여기에 좋은 남자 없어?<br>
 ---<br>
-<h2>end</h2>
+<h2>end</h2><br>

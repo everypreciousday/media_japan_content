@@ -1,4 +1,4 @@
-<h1>best_friend.txt</h1>
+<h1>best_friend.txt</h1><br>
 <h2>voca</h2><br>
 <h2>content</h2><br>
 もう<Ruby><rb>大丈夫</rb><rt>だいじょうぶ</rt></Ruby><br>
@@ -147,4 +147,4 @@ Best Friend<br>
 ---<br>
 끝(:<br>
 ---<br>
-<h2>end</h2>
+<h2>end</h2><br>

@@ -1,4 +1,4 @@
-<h1>sakuratuki.txt</h1>
+<h1>sakuratuki.txt</h1><br>
 <h2>voca</h2><br>
 ささやか<br>
 작음; 아담함;<br>
@@ -140,4 +140,4 @@
 <ruby><rb>終</rb><rt>お</rt></ruby>わり<br>
 끝(:<br>
 ---<br>
-<h2>end</h2>
+<h2>end</h2><br>

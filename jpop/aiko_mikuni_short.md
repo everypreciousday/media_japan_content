@@ -1,4 +1,4 @@
-<h1>aiko_mikuni_short.txt</h1>
+<h1>aiko_mikuni_short.txt</h1><br>
 <h2>voca</h2><br>
 もたげる<br>
 쳐들다, 머리를 들다<br>
@@ -102,4 +102,4 @@
 <ruby>繋<rt>つな</rt></ruby>いだ<ruby>手<rt>て</rt></ruby>を<ruby>離<rt>はな</rt></ruby>したくない<br>
 붙잡은 손을 놓고 싶지 않아<br>
 ---<br>
-<h2>end</h2>
+<h2>end</h2><br>

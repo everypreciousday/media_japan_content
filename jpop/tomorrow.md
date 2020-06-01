@@ -1,4 +1,4 @@
-<h1>tomorrow.txt</h1>
+<h1>tomorrow.txt</h1><br>
 ﻿***VOCASTART***<br>
 <h2>content</h2><br>
 とどまる<Ruby><rb>事</rb><rt>こと</rt></Ruby>を<Ruby><rb>知</rb><rt>し</rt></Ruby>らない<br>
@@ -149,4 +149,4 @@ oh oh Tomorrow never knows<br>
 <ruby><rb>終</rb><rt>お</rt></ruby>わり<br>
 끝(:<br>
 ---<br>
-<h2>end</h2>
+<h2>end</h2><br>

@@ -1,4 +1,4 @@
-<h1>girltalk.txt</h1>
+<h1>girltalk.txt</h1><br>
 ﻿***VOCASTART***<br>
 <h2>content</h2><br>
 <Ruby><rb>誰</rb><rt>だれ</rt></Ruby>にも<Ruby><rb>止</rb><rt>と</rt></Ruby>められない<br>
@@ -204,4 +204,4 @@ girl talk<br>
 <ruby><rb>終</rb><rt>お</rt></ruby>わり<br>
 끝(:<br>
 ---<br>
-<h2>end</h2>
+<h2>end</h2><br>

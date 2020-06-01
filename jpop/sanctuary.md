@@ -1,4 +1,4 @@
-<h1>sanctuary.txt</h1>
+<h1>sanctuary.txt</h1><br>
 <h2>voca</h2><br>
 <h2>content</h2><br>
 <Ruby>最後<rt>さいご</rt></Ruby>に<Ruby>私<rt>わたし</rt></Ruby>の<Ruby>曲<rt>きょく</rt></Ruby>を<br>
@@ -124,4 +124,4 @@ sanctuary입니다.<br>
 <ruby><rb>終</rb><rt>お</rt></ruby>わり<br>
 끝(:<br>
 ---<br>
-<h2>end</h2>
+<h2>end</h2><br>

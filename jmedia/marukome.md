@@ -1,4 +1,4 @@
-<h1>marukome.txt</h1>
+<h1>marukome.txt</h1><br>
 <h2>voca</h2><br>
 <Ruby><rb>内緒</rb><rt>ないしょ</rt></Ruby><br>
 비밀, 살림살이<br>
@@ -82,4 +82,4 @@
 お！うまい！<br>
 응! 맛있다<br>
 ---<br>
-<h2>end</h2>
+<h2>end</h2><br>

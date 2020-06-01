@@ -1,4 +1,4 @@
-<h1>yukinohana.txt</h1>
+<h1>yukinohana.txt</h1><br>
 <h2>voca</h2><br>
 <h2>content</h2><br>
 <Ruby><rb>伸</rb><rt>の</rt></Ruby>びた<Ruby><rb>影</rb><rt>かげ</rt></Ruby>を<br>
@@ -56,4 +56,4 @@
 <ruby><rb>終</rb><rt>お</rt></ruby>わり<br>
 끝(: 공식 채널에서 올린 영상이 2분 제한 영상인지라 아쉽네요 ):<br>
 ---<br>
-<h2>end</h2>
+<h2>end</h2><br>

@@ -53,14 +53,10 @@ class Item:
         f = open(the_path, "r", encoding='UTF8')
         lines = f.readlines()
         for line in lines:
-            result = re.match(r"^<h1>.*", line)
+            result = re.match(r".*<br><br>$", line)
             if result:
+                print(str(the_path) + "\n" + line)
                 continue
-
-            result = re.match(r"^<h2>.*", line)
-            if result:
-                continue
-
             result = re.match(r".*<br>$", line)
             if result:
                 continue

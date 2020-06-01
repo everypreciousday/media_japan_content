@@ -1,4 +1,4 @@
-<h1>sekai.txt</h1>
+<h1>sekai.txt</h1><br>
 <h2>voca</h2><br>
 <h2>content</h2><br>
 10月28日、<ruby><rb>眠</rb><rt>ねむ</rt></ruby>れないの<br>
@@ -141,4 +141,4 @@
 <ruby><rb>終</rb><rt>お</rt></ruby>わり<br>
 끝(:<br>
 ---<br>
-<h2>end</h2>
+<h2>end</h2><br>

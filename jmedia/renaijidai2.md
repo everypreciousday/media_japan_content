@@ -1,4 +1,4 @@
-<h1>renaijidai2.txt</h1>
+<h1>renaijidai2.txt</h1><br>
 <h2>voca</h2><br>
 <h2>content</h2><br>
 <ruby><rb>私</rb><rt>わたし</rt></ruby>たち<br>
@@ -2007,4 +2007,4 @@ C씨, 어른이 되세요.<br>
 あっ…｡<br>
 아...<br>
 ---<br>
-<h2>end</h2>
+<h2>end</h2><br>

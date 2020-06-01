@@ -1,4 +1,4 @@
-<h1>aiko_mikuni.txt</h1>
+<h1>aiko_mikuni.txt</h1><br>
 <h2>voca</h2><br>
 <ruby>詰<rt>つ</rt></ruby>まる<br>
 가득 차다; 잔뜩 쌓이다.<br>
@@ -132,4 +132,4 @@
 2人の<ruby>帰<rt>かえ</rt></ruby>り<ruby>道<rt>みち</rt></ruby><br>
 두 사람의 귀가길<br>
 ---<br>
-<h2>end</h2>
+<h2>end</h2><br>

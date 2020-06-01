@@ -1,4 +1,4 @@
-<h1>daiji.txt</h1>
+<h1>daiji.txt</h1><br>
 <h2>voca</h2><br>
 ついに<br>
 마침내, 드디어<br>
@@ -100,4 +100,4 @@
 ”たいせつなもの”を<Ruby><rb>守</rb><rt>まも</rt></Ruby>る。<br>
 "소중한 물건"을 지키자.<br>
 ---<br>
-<h2>end</h2>
+<h2>end</h2><br>

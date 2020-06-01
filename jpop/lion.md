@@ -1,4 +1,4 @@
-<h1>lion.txt</h1>
+<h1>lion.txt</h1><br>
 <h2>voca</h2><br>
 <h2>content</h2><br>
 らいおんハート - SMAP<br>
@@ -131,4 +131,4 @@ Lion Heart<br>
 <ruby><rb>終</rb><rt>お</rt></ruby>わり<br>
 끝(:<br>
 ---<br>
-<h2>end</h2>
+<h2>end</h2><br>

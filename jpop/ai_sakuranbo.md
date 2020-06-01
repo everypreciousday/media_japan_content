@@ -1,4 +1,4 @@
-<h1>ai_sakuranbo.txt</h1>
+<h1>ai_sakuranbo.txt</h1><br>
 <h2>voca</h2><br>
 さくらんぼ<br>
 체리<br>
@@ -206,4 +206,4 @@
 さくらんぼ<br>
 체리<br>
 ---<br>
-<h2>end</h2>
+<h2>end</h2><br>

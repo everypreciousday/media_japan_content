@@ -1,4 +1,4 @@
-<h1>houkihosi.txt</h1>
+<h1>houkihosi.txt</h1><br>
 <h2>voca</h2><br>
 はじける<br>
 세게 튀다<br>
@@ -123,4 +123,4 @@
 どんな<Ruby>時<rt>とき</rt></Ruby>も<br>
 언제라도<br>
 ---<br>
-<h2>end</h2>
+<h2>end</h2><br>

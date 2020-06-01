@@ -1,4 +1,4 @@
-<h1>hidamari.txt</h1>
+<h1>hidamari.txt</h1><br>
 <h2>voca</h2><br>
 <Ruby>若葉<rt>わかば</rt></Ruby><br>
 새잎; 어린 잎.<br>
@@ -133,4 +133,4 @@
 それはひだまりでした<br>
 마치 양지같았죠<br>
 ---<br>
-<h2>end</h2>
+<h2>end</h2><br>

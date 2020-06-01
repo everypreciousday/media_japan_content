@@ -1,4 +1,4 @@
-<h1>notfound.txt</h1>
+<h1>notfound.txt</h1><br>
 ﻿***VOCASTART***<br>
 <Ruby>矛盾<rt>むじゅん</rt></Ruby><br>
 모순<br>
@@ -193,4 +193,4 @@ NOT FOUND<br>
 <Ruby>微笑<rt>ほほえ</rt></Ruby>みを<br>
 미소를<br>
 ---<br>
-<h2>end</h2>
+<h2>end</h2><br>

@@ -1,4 +1,4 @@
-<h1>helloagain.txt</h1>
+<h1>helloagain.txt</h1><br>
 <h2>voca</h2><br>
 <Ruby>注<rt>そそ</rt></Ruby>ぐ<br>
 (물·눈물·비·눈 따위가) 쏟아지다.<br>
@@ -181,4 +181,4 @@ a feeling heart<br>
 Hello,again<br>
 a feeling heart<br>
 ---<br>
-<h2>end</h2>
+<h2>end</h2><br>

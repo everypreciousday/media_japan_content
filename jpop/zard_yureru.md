@@ -1,4 +1,4 @@
-<h1>zard_yureru.txt</h1>
+<h1>zard_yureru.txt</h1><br>
 <h2>voca</h2><br>
 <Ruby>忍<rt>しの</rt></Ruby>び<Ruby>足<rt>あし</rt></Ruby><br>
 발소리를 죽여 걸음; 살금살금 걸음.<br>
@@ -149,4 +149,4 @@ in your dream<br>
 <ruby><rb>終</rb><rt>お</rt></ruby>わり<br>
 끝(:<br>
 ---<br>
-<h2>end</h2>
+<h2>end</h2><br>

@@ -1,4 +1,4 @@
-<h1>amaterasu.txt</h1>
+<h1>amaterasu.txt</h1><br>
 <h2>voca</h2><br>
 <Ruby><rb>通</rb><rt>とお</rt></Ruby>り<Ruby><rb>雨</rb><rt>あめ</rt></Ruby><br>
 소나기<br>
@@ -263,4 +263,4 @@
 <Ruby><rb>感</rb><rt>かん</rt></Ruby>じたよ<br>
 느꼈어<br>
 ---<br>
-<h2>end</h2>
+<h2>end</h2><br>

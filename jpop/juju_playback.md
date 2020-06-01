@@ -1,4 +1,4 @@
-<h1>juju_playback.txt</h1>
+<h1>juju_playback.txt</h1><br>
 ﻿***VOCASTART***<br>
 <Ruby>囁<rt>ささや</rt></Ruby>く<br>
 속삭이다; 소곤거리다<br>
@@ -192,4 +192,4 @@ PLAYBACK PLAYBACK...<br>
 Let yourself go & Have a good time<br>
 PLAYBACK PLAYBACK...<br>
 ---<br>
-<h2>end</h2>
+<h2>end</h2><br>

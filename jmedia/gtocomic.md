@@ -1,4 +1,4 @@
-<h1>gtocomic.txt</h1>
+<h1>gtocomic.txt</h1><br>
 <h2>voca</h2><br>
 <Ruby><rb>曜日</rb><rt>ようび</rt></Ruby><br>
 요일<br>
@@ -311,4 +311,4 @@ AKIRA: <Ruby><rb>火曜</rb><rt>かよう</rt></Ruby><Ruby><rb>夜</rb><rt>よ�
 どっきり<Ruby><rb>大成功</rb><rt>だいせいこう</rt></Ruby>！！<br>
 몰래카메라 대성공!!<br>
 ---<br>
-<h2>end</h2>
+<h2>end</h2><br>

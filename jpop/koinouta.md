@@ -1,4 +1,4 @@
-<h1>koinouta.txt</h1>
+<h1>koinouta.txt</h1><br>
 <h2>voca</h2><br>
 <Ruby>響<rt>ひび</rt></Ruby>く<br>
 울리다.울려 퍼지다.<br>
@@ -220,4 +220,4 @@
 <Ruby>恋<rt>こい</rt></Ruby>の<Ruby>歌<rt>うた</rt></Ruby><br>
 사랑의노래<br>
 ---<br>
-<h2>end</h2>
+<h2>end</h2><br>

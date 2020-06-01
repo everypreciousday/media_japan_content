@@ -1,4 +1,4 @@
-<h1>shootingstar.txt</h1>
+<h1>shootingstar.txt</h1><br>
 <h2>voca</h2><br>
 <Ruby>褪<rt>あ</rt></Ruby>せる<br>
 (빛깔이) 바래다; 퇴색하다.<br>
@@ -150,4 +150,4 @@
 サインのために<br>
 싸인을 위해서<br>
 ---<br>
-<h2>end</h2>
+<h2>end</h2><br>
