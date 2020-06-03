@@ -49,6 +49,31 @@ class Item:
         if os.path.isfile(the_path) == False:
             print (the_path + " not exist!!!")
 
+        itemfile = open(the_path, "r", encoding='UTF8')
+        items = itemfile.readlines()
+        for item in items:
+            ruby_cnt = item.count("<Ruby>")
+            ruby_end_cnt = item.count("</Ruby>")
+            rt_cnt = item.count("<rt>")
+            rt_end_cnt = item.count("</rt>")
+            rb_cnt = item.count("<rb>")
+            rb_end_cnt = item.count("</rb>")
+
+            if ruby_cnt != ruby_end_cnt:
+                print(the_path)
+                print("ruby cnt not same")
+                print(item)
+
+            if rt_cnt != rt_end_cnt:
+                print(the_path)
+                print("rt cnt not same")
+                print(item)
+
+            if rb_cnt != rb_end_cnt:
+                print(the_path)
+                print("rb cnt not same")
+                print(item)
+
         # check whether each sentence finish with <br> 
         f = open(the_path, "r", encoding='UTF8')
         lines = f.readlines()

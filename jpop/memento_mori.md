@@ -1,6 +1,6 @@
 <h1>memento_mori.txt</h1><br>
 <h2>voca</h2><br>
-ため<Ruby>息<rt>いき<br>
+ため<Ruby>息<rt>いき</rt></Ruby><br>
 한숨<br>
 ため<Ruby>息<rt>いき</rt></Ruby><Ruby>色<rt>いろ</rt></Ruby>した<br>
 한숨의 색을 띈<br>

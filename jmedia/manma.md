@@ -1,13 +1,13 @@
 <h1>manma.txt</h1><br>
 <h2>voca</h2><br>
-<Ruby>愚図</rb><rt>ぐず</rt></Ruby>る<br>
+<Ruby>愚図<rt>ぐず</rt></Ruby>る<br>
 떼를 쓰다.<br>
-<Ruby>愚図</rb><rt>ぐず</rt></Ruby>ったりすると<br>
+<Ruby>愚図<rt>ぐず</rt></Ruby>ったりすると<br>
 떼를 쓰거나하면<br>
 ---<br>
-<Ruby>逆立</rb><rt>さかだ</rt></Ruby>てる<br>
+<Ruby>逆立<rt>さかだ</rt></Ruby>てる<br>
 거꾸로 세우다; 곤두세우다.<br>
-よく<Ruby>毛<rt>け</rt></Ruby>を<Ruby>逆立</rb><rt>さかだ</rt></Ruby>てて<br>
+よく<Ruby>毛<rt>け</rt></Ruby>を<Ruby>逆立<rt>さかだ</rt></Ruby>てて<br>
 금방 털을 곤두세워<br>
 ---<br>
 <Ruby>狼<rt>おおかみ</rt></Ruby><br>
@@ -22,9 +22,9 @@
 <h2>content</h2><br>
 まんま。<br>
 맘마<br>
-<Ruby>今<rt>いま</rt></Ruby><Ruby>作</rb><rt>つく</rt></Ruby>ってるよ。<br>
+<Ruby>今<rt>いま</rt></Ruby><Ruby>作<rt>つく</rt></Ruby>ってるよ。<br>
 지금만들고있어.<br>
-<Ruby>待</rb><rt>ま</rt></Ruby>っててね。ゆき。<br>
+<Ruby>待<rt>ま</rt></Ruby>っててね。ゆき。<br>
 좀만기다려줘 유키<br>
 ---<br>
 まんま。<br>
@@ -37,12 +37,12 @@
 ゆき！<br>
 유키!<br>
 ---<br>
-<Ruby>怒</rb><rt>おこ</rt></Ruby>ったり<br>
+<Ruby>怒<rt>おこ</rt></Ruby>ったり<br>
 화가 나거나<br>
-<Ruby>愚図</rb><rt>ぐず</rt></Ruby>ったりすると<br>
+<Ruby>愚図<rt>ぐず</rt></Ruby>ったりすると<br>
 떼를 쓰거나하면<br>
 ---<br>
-よく<Ruby>毛<rt>け</rt></Ruby>を<Ruby>逆立</rb><rt>さかだ</rt></Ruby>てて<br>
+よく<Ruby>毛<rt>け</rt></Ruby>を<Ruby>逆立<rt>さかだ</rt></Ruby>てて<br>
 금방 털을 곤두세워<br>
 ---<br>
 <Ruby>狼<rt>おおかみ</rt></Ruby>の<Ruby>姿<rt>すがた</rt></Ruby>になったといいます。<br>
@@ -53,7 +53,7 @@
 ---<br>
 <Ruby>先<rt>さき</rt></Ruby>にビスケットでも<br>
 먼저비스킷이라도<br>
-<Ruby>食</rb><rt>た</rt></Ruby>べてて。<br>
+<Ruby>食<rt>た</rt></Ruby>べてて。<br>
 먹고있으렴.<br>
 ---<br>
 お<Ruby>散歩<rt>さんぽ</rt></Ruby>。<br>
@@ -64,7 +64,7 @@
 お<Ruby>散歩<rt>さんぽ</rt></Ruby>。<br>
 산책!<br>
 ---<br>
-この<Ruby>間<rt>かん</rt></Ruby><Ruby>具合<rt>ぐあい</rt></Ruby><Ruby>悪</rb><rt>わる</rt></Ruby>くなったばかりでしょ。<br>
+この<Ruby>間<rt>かん</rt></Ruby><Ruby>具合<rt>ぐあい</rt></Ruby><Ruby>悪<rt>わる</rt></Ruby>くなったばかりでしょ。<br>
 이전에몸이안좋았다가나은지얼마안됐잖아.<br>
 ---<br>
 だから、<br>
@@ -75,14 +75,14 @@
 わかった、わかったから、もう。<br>
 알았어 알았다니까.으이구.<br>
 ---<br>
-ほら、<Ruby>耳<rt>みみ</rt></Ruby><Ruby>引</rb><rt>ひ</rt></Ruby>っ<Ruby>込</rb><rt>こ</rt></Ruby>めて。<br>
+ほら、<Ruby>耳<rt>みみ</rt></Ruby><Ruby>引<rt>ひ</rt></Ruby>っ<Ruby>込<rt>こ</rt></Ruby>めて。<br>
 자 귀오므리고.<br>
-よし、お<Ruby>散歩<rt>さんぽ</rt></Ruby><Ruby>行</rb><rt>い</rt></Ruby>こう。<br>
+よし、お<Ruby>散歩<rt>さんぽ</rt></Ruby><Ruby>行<rt>い</rt></Ruby>こう。<br>
 자 산책가자.<br>
 ---<br>
 だから、<Ruby>耳<rt>みみ</rt></Ruby>。<br>
 그러니까 귀!<br>
-また<Ruby>出</rb><rt>だ</rt></Ruby>してる。<br>
+また<Ruby>出<rt>だ</rt></Ruby>してる。<br>
 또내놓고있네.<br>
 ---<br>
 はい！<br>
@@ -99,7 +99,7 @@
 だから、それはね<br>
 그러니까 그것은…<br>
 ---<br>
-ゆきも<Ruby>保育園<rt>ほいくえん</rt></Ruby><Ruby>行</rb><rt>い</rt></Ruby>きたい。<br>
+ゆきも<Ruby>保育園<rt>ほいくえん</rt></Ruby><Ruby>行<rt>い</rt></Ruby>きたい。<br>
 유키도보육원가고싶어.<br>
 ---<br>
 だめ！<br>
@@ -115,7 +115,7 @@
 いきたい~<br>
 가고싶어~<br>
 ---<br>
-ゆき、ご<Ruby>飯<rt>はん</rt></Ruby><Ruby>早</rb><rt>はや</rt></Ruby>くたべて。<br>
+ゆき、ご<Ruby>飯<rt>はん</rt></Ruby><Ruby>早<rt>はや</rt></Ruby>くたべて。<br>
 유키 어서밥먹어.<br>
 ---<br>
 <Ruby>秘密<rt>ひみつ</rt></Ruby>ってこと<br>

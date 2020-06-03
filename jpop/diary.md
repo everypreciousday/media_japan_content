@@ -115,7 +115,7 @@
 <Ruby>公園<rt>こうえん</rt></Ruby><br>
 공원<br>
 ---<br>
-<Ruby>水飲<rt><みずの/rt></Ruby>み<Ruby>場<rt>ば</rt></Ruby><br>
+<Ruby>水飲<rt>みずの</rt></Ruby>み<Ruby>場<rt>ば</rt></Ruby><br>
 급수대<br>
 <Ruby>消<rt>き</rt></Ruby>えゆく<Ruby>命<rt>いのち</rt></Ruby><br>
 사라져가는 목숨<br>

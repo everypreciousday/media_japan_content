@@ -94,10 +94,10 @@
 <Ruby>暗<rt>くら</rt></Ruby>い<Ruby>道<rt>みち</rt></Ruby>でも<br>
 어두운길이라도<br>
 ---<br>
-<Ruby>日々<rt>ひび</rt></Ruby><Ruby>照<rt>て</rt></Ruby>らす<Ruby>月<rt>つき</rt></Ruby><Ruby><br>
+<Ruby>日々<rt>ひび</rt></Ruby><Ruby>照<rt>て</rt></Ruby>らす<Ruby>月<rt>つき</rt></Ruby><br>
 날들을 비추는 달<br>
 ---<br>
-握<rt>にぎ</rt></Ruby>りしめた<Ruby>手<rt>て</rt></Ruby><br>
+<Ruby>握<rt>にぎ</rt></Ruby>りしめた<Ruby>手<rt>て</rt></Ruby><br>
 꼭 잡은 손<br>
 <Ruby>離<rt>はな</rt></Ruby>すことなく<br>
 놓치는 일 없이<br>
