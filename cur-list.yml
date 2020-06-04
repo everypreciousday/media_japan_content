@@ -281,7 +281,7 @@ items:
     dir: JPop
   -
     ver: 1
-    enabled: true
+    enabled: false
     default: false
     t1: "嵐-青空の下"
     t2: "아라시 Arashi"
@@ -380,7 +380,7 @@ items:
     dir: JPop
   -
     ver: 1
-    enabled: true
+    enabled: false
     default: false
     t1: "나카시마 미카 - 눈의 꽃"
     t2: "미안한다 사랑한다의 주제가의 원곡 박효신이 리메이크한 것으로 유명"
@@ -470,7 +470,7 @@ items:
     dir: JMedia
   -
     ver: 1
-    enabled: true
+    enabled: false 
     default: false
     t1: "도라에몽OST"
     t2: "도라에몽OST"

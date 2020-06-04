@@ -1,12 +1,12 @@
 <h1>marukome.txt</h1><br>
 <h2>voca</h2><br>
 <Ruby>内緒<rt>ないしょ</rt></Ruby><br>
-비밀, 살림살이<br>
+비밀<br>
 <Ruby>内緒話<rt>ないしょばなし</rt></Ruby>に<Ruby><rb>耳</rb><rt>みみ</rt></Ruby>を<Ruby><rb>欹</rb><rt>そぱだ</rt></Ruby>てる<br>
 비밀이야기에 귀를 귀울이다<br>
 ---<br>
 <Ruby>手伝<rt>てつだ</rt></Ruby>う<br>
-도아주다, 도맡다<br>
+도와주다, 도맡다<br>
 <Ruby>家事<rt>かじ</rt></Ruby>を<Ruby><rb>手伝</rb><rt>てつだ</rt></Ruby>う<br>
 가사를 돕다<br>
 <h2>content</h2><br>
