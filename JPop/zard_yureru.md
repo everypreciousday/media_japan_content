@@ -146,7 +146,7 @@ in my dream<br>
 그대와 마냥 걷고 싶어<br>
 in your dream<br>
 ---<br>
-<ruby><rb>終</rb><rt>お</rt></ruby>わり<br>
+<ruby>終<rt>お</rt></ruby>わり<br>
 끝(:<br>
 ---<br>
 <h2>end</h2><br>

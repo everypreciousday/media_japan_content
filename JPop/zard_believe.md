@@ -122,7 +122,7 @@ Just believe in love<br>
 <Ruby>明日<rt>あした</rt></Ruby>への<Ruby>希望<rt>きぼう</rt></Ruby>と<Ruby>変<rt>か</rt></Ruby>えてゆこう<br>
 내일을 향한 희망으로 바꿔가자<br>
 ---<br>
-<ruby><rb>終</rb><rt>お</rt></ruby>わり<br>
+<ruby>終<rt>お</rt></ruby>わり<br>
 끝(:<br>
 ---<br>
 <h2>end</h2><br>

@@ -137,7 +137,7 @@
 <Ruby>満月<rt>まんげつ</rt></Ruby>の<Ruby>元<rt>もと</rt></Ruby>へと<br>
 만월의 곁으로<br>
 ---<br>
-<ruby><rb>終</rb><rt>お</rt></ruby>わり<br>
+<ruby>終<rt>お</rt></ruby>わり<br>
 끝(:<br>
 ---<br>
 <h2>end</h2><br>

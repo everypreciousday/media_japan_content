@@ -219,7 +219,7 @@
 そんな<Ruby>日<rt>ひ</rt></Ruby>の<Ruby>話<rt>はなし</rt></Ruby><br>
 그런 날의 이야기<br>
 ---<br>
-<ruby><rb>終</rb><rt>お</rt></ruby>わり<br>
+<ruby>終<rt>お</rt></ruby>わり<br>
 끝(:<br>
 ---<br>
 <h2>end</h2><br>

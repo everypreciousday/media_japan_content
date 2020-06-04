@@ -120,7 +120,7 @@
 <Ruby>冷<rt>つめ</rt></Ruby>たく<br>
 차갑게…<br>
 ---<br>
-<ruby><rb>終</rb><rt>お</rt></ruby>わり<br>
+<ruby>終<rt>お</rt></ruby>わり<br>
 끝(:<br>
 ---<br>
 <h2>end</h2><br>
