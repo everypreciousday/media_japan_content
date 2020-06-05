@@ -1,0 +1,19 @@
+items:
+  -
+    dir: JPop
+    uid: slamdunk_ost
+    vid: 2PC8Dkv9fYg
+    ver: 1
+    enabled: false
+    default: false
+    t1: "Slam Dunk Music Video"
+    t2: "슬램덩크 OST"
+  -
+    dir: JPop
+    uid: chara_kataomoi
+    vid: nBONQ1g7PZs
+    ver: 1
+    enabled: false
+    default: false
+    t1: "Chara - 片想い"
+    t2: "독특하고 몽환적인 목소리 Chara의 짝사랑 노래"
