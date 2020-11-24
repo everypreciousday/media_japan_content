@@ -2,6 +2,15 @@ version: 1
 items:
   -
     dir: JPop
+    uid: kyary_ponponpon
+    vid: yzC4hFK5P3g
+    ver: 1
+    enabled: true
+    default: true
+    t1: "きゃりーぱみゅぱみゅ - PONPONPON"
+    t2: "중독성 있는 멜로디"
+  -
+    dir: JPop
     uid: chara_i_miss_you
     vid: nBONQ1g7PZs
     ver: 1
