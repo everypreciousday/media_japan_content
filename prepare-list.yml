@@ -1,4 +1,12 @@
 items:
+  - dir: JPop
+    uid: daoko
+    vid: -tKVN2mAKRI
+    ver: 1
+    enabled: false
+    default: false
+    t1: "DAOKO × 米津玄師『打上花火』MUSIC VIDEO"
+    t2: "DAOKO × 米津玄師『打上花火』MUSIC VIDEO"
   -
     dir: JPop
     uid: slamdunk_ost
