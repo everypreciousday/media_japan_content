@@ -2,10 +2,10 @@
 
 ## youtube에서 video_id 를 확인 
 
-`cur_list.yml` 에서 
-vid는 youtube의 video_id에 해당한다.
-
-uid는 md파일의 이름에 해당한다. 적당한 구분할 수 있는 이름으로 지정한다. 
+`cur-list.yml` 에서 
+- vid는 youtube의 video_id에 해당한다.
+- uid는 md파일의 이름에 해당한다. 적당한 구분할 수 있는 이름으로 지정한다. 
+- default: true이면 앱 첫 화면의 리스트에 나온다  
 
 ```
     dir: JPop
