@@ -2,6 +2,22 @@
 
 ## youtube에서 video_id 를 확인 
 
+`cur_list.yml` 에서 
+vid는 youtube의 video_id에 해당한다.
+
+uid는 md파일의 이름에 해당한다. 적당한 구분할 수 있는 이름으로 지정한다. 
+
+```
+    dir: JPop
+    uid: chara_i_miss_you
+    vid: nBONQ1g7PZs
+    ver: 1
+    enabled: false
+    default: false
+    t1: "Chara I miss you"
+    t2: "독특하고 몽환적인 목소리 Chara"
+```
+
 ## 컨텐츠 준비 
 
 먼저 다음과 같이 일본어와 한글을 준비한다. 
