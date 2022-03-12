@@ -3,21 +3,12 @@ items:
   - 
     dir: JPop
     uid: kirinji_alien
-    vid: SGmSCtfMp8M
+    vid: JNEtlSSKQIs
     ver: 1
     enabled: true
     default: true
-    t1: エイリアンズ 　キリンジ
-    t2: 키린지 에얼리언 라이브, 이 목소리, 음색 리얼?
-  - 
-    dir: JPop
-    uid: kirinji_alien
-    vid: mNu85yWnSPk
-    ver: 1
-    enabled: true
-    default: false
-    t1: エイリアンズ／キリンジ（Cover）
-    t2: 키린지 에얼리언 커버
+    t1: KIRINJI (키린지) - エイリアンズ (에일리언즈) / Live @Budokan
+    t2: 몽환적인 목소리, 라이브에서도 그대로!
   -
     dir: JPop
     uid: kirinji_jikanganai
