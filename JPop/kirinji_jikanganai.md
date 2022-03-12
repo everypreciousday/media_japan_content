@@ -72,7 +72,7 @@
 영원은 이제 절반을 지나버린 것 같아<br>
 ---<br>
 How do you feel？<br>
-<ruby>残り<rt>のこり</rt></ruby><ruby>半分<rt>はんぶん</rt></ruby>て<ruby>短<rt>みじか</rt></ruby>すぎるね<br>
+<ruby>残<rt>のこ</rt></ruby>り<ruby>半分<rt>はんぶん</rt></ruby>て<ruby>短<rt>みじか</rt></ruby>すぎるね<br>
 남은 절반은 너무 짧은데<br>
 ---<br>
 うつろう<ruby>街<rt>まち</rt></ruby><br>
@@ -83,7 +83,7 @@ How do you feel？<br>
 <ruby>札<rt>さつ</rt></ruby>びらが<ruby>無為<rt>むい</rt></ruby>に<ruby>散<rt>ち</rt></ruby>れど<br>
 지폐가 부질없이 흩어진다해도<br>
 ---<br>
-<ruby>口笛<rt>くちぶえ</rt></ruby><ruby>吹こ<rt>ふこ</rt></ruby>う<br>
+<ruby>口笛<rt>くちぶえ</rt></ruby><ruby>吹<rt>ふ</rt></ruby>こう<br>
 휘파람을 불자<br>
 <ruby>君<rt>きみ</rt></ruby>も<ruby>踊<rt>おど</rt></ruby>ろよ、さあ<br>
 너도 춤추자, 자<br>
@@ -98,7 +98,7 @@ How do you feel？<br>
 ---<br>
 <ruby>僕<rt>ぼく</rt></ruby>が<ruby>見<rt>み</rt></ruby>てきたすべてを<br>
 내가 봐왔던 모든 걸 <br>
-<ruby>話し<rt>はなし</rt></ruby>て<ruby>聞か<rt>きか</rt></ruby>せたい<br>
+<ruby>話<rt>はな</rt></ruby>して<ruby>聞<rt>き</rt></ruby>かせたい<br>
 이야기로 들려주고 싶어<br>
 ---<br>
 シラナイコト <br>
@@ -114,14 +114,14 @@ How do you feel？<br>
 <ruby>明日<rt>あした</rt></ruby>の<ruby>色<rt>いろ</rt></ruby>を<ruby>思い描こ<rt>おもいえがこ</rt></ruby>う<br>
 내일의 색을 생각해 그려가자<br>
 ---<br>
-<ruby>流れる<rt>ながれる</rt></ruby><ruby>星<rt>ほし</rt></ruby> <br>
+<ruby>流<rt>なが</rt></ruby>れる<ruby>星<rt>ほし</rt></ruby> <br>
 흐르는 별, <br>
-<ruby>煌めく<rt>きらめく</rt></ruby><ruby>雪<rt>ゆき</rt></ruby><br>
+<ruby>煌<rt>きら</rt></ruby>めく<ruby>雪<rt>ゆき</rt></ruby><br>
 반짝이는 눈<br>
 <ruby>瞳<rt>ひとみ</rt></ruby>に<ruby>映<rt>うつ</rt></ruby>る<ruby>焔<rt>ほのお</rt></ruby><br>
 눈동자에 비친 불꽃<br>
 ---<br>
-<ruby>花びら<rt>はなびら</rt></ruby><ruby>散っ<rt>ちっ</rt></ruby>て<ruby>森<rt>もり</rt></ruby>は<ruby>輝い<rt>かがやい</rt></ruby>て、ああ<br>
+<ruby>花<rt>はな</rt></ruby>びら<ruby>散<rt>ち</rt></ruby>って<ruby>森<rt>もり</rt></ruby>は<ruby>輝<rt>かがや</rt></ruby>いて、ああ<br>
 꽃잎은 지고 숲은 빛나고<br>
 ---<br>
 さっと<ruby>手<rt>て</rt></ruby>をふってサヨナラする<br>
@@ -140,4 +140,5 @@ How do you feel？<br>
 ---<br>
 <ruby>終<rt>お</rt></ruby>わり<br>
 끝(:<br>
+---<br>
 <h2>end</h2><br>
