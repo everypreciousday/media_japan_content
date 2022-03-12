@@ -27,17 +27,19 @@
 あなたの<ruby>孤<rt>こ</rt></ruby><ruby>獨<rt>とく</rt></ruby>、<br>
 너의 고독<br>
 ---<br>
-その<ruby>淸<rt>きよし</rt></ruby>しさに<br>
+その<ruby>淸<rt>すが</rt></ruby>しさに<br>
+그 깨끗함에
 <ruby>心<rt>こころ</rt></ruby>うばわれ<br>
-그 깨끗함에 마음을 빼앗겨<br>
+마음을 빼앗겨<br>
 <ruby>激<rt>はげ</rt></ruby>しく<ruby>求<rt>もと</rt></ruby>めた<ruby>記憶<rt>きおく</rt></ruby><br>
 격하게 원했던 기억<br>
 ---<br>
 <ruby>春<rt>はる</rt></ruby>の<ruby>宵<rt>よい</rt></ruby> <br>
+봄의 초저녁
 <ruby>光<rt>ひかり</rt></ruby>の<ruby>夏<rt>なつ</rt></ruby> <br>
----<br>
+비츼 여름
 <ruby>途切<rt>とぎ</rt></ruby>れたフィルム<br>
-봄의 초저녁, 빛의 여름, 끊겨버린 필름<br>
+끊겨버린 필름<br>
 ---<br>
 すべてを<ruby>覆<rt>おお</rt></ruby>いかくす<ruby>雲<rt>くも</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>で<br>
 모든 것을 덮어버리는 궁궐에서<br>
@@ -71,10 +73,13 @@
 <ruby>軋<rt>きし</rt></ruby>む<ruby>列<rt>れつ</rt></ruby><ruby>車<rt>くるま</rt></ruby>を<br>
 <ruby>追<rt>お</rt></ruby>いかけて<br>
 삐걱거리는 열차를 뒤쫓아<br>
+---<br>
 <ruby>赤<rt>あか</rt></ruby>に<ruby>浸<rt>ひた</rt></ruby>す <br>
+빨강에 담근
 <ruby>靑<rt>あお</rt></ruby>が<ruby>散<rt>ち</rt></ruby>る <br>
+파랑이 번지는
 <ruby>夜<rt>よる</rt></ruby>に<ruby>沈<rt>しず</rt></ruby>む<br>
-빨강에 담근 파랑이 번지는 밤이 지고<br>
+밤이 지고<br>
 ---<br>
 <ruby>星<rt>ほし</rt></ruby>がこぼれた<br>
 별이 흘러 넘쳤어<br>
