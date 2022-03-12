@@ -115,17 +115,28 @@ How do you feel？
 내일의 색을 생각해 그려가자
 ---
 <ruby>流れる<rt>ながれる</rt></ruby><ruby>星<rt>ほし</rt></ruby> 
+흐르는 별, 
 <ruby>煌めく<rt>きらめく</rt></ruby><ruby>雪<rt>ゆき</rt></ruby>
-<ruby>瞳<rt>ひとみ</rt></ruby>に<ruby>映る<rt>うつる</rt></ruby><ruby>焔<rt>ほのお</rt></ruby>
+반짝이는 눈
 ---
+<ruby>瞳<rt>ひとみ</rt></ruby>に<ruby>映る<rt>うつる</rt></ruby><ruby>焔<rt>ほのお</rt></ruby>
+눈동자에 비친 불꽃
 <ruby>花びら<rt>はなびら</rt></ruby><ruby>散っ<rt>ちっ</rt></ruby>て<ruby>森<rt>もり</rt></ruby>は<ruby>輝い<rt>かがやい</rt></ruby>て、ああ
+꽃잎은 지고 숲은 빛나고
+---
 さっと<ruby>手<rt>て</rt></ruby>をふってサヨナラする
+슬쩍 손을 흔들어 작별인사를 해
 ---
 <ruby>人<rt>ひと</rt></ruby>さえ<ruby>人<rt>ひと</rt></ruby>にとどまらぬ
+사람조차 사람에게 머물지 않는 걸
 <ruby>大切<rt>たいせつ</rt></ruby>なもの<ruby>見失っ<rt>みうしなっ</rt></ruby>てしまいそうさ
+소중한 것을 잃어버릴 것만 같아
 ---
 <ruby>君<rt>きみ</rt></ruby>に<ruby>愛<rt>あい</rt></ruby>を<ruby>伝え<rt>つたえ</rt></ruby>ておこう
+너에게 사랑을 전해두자
+---
 <ruby>愛<rt>あい</rt></ruby>をあるだけ、すべて
+사랑을 있는 만큼, 전부
 ---
 <ruby>終<rt>お</rt></ruby>わり
 끝(:
