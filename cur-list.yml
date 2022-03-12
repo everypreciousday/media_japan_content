@@ -229,10 +229,10 @@ items:
     ver: 1
     enabled: true
     default: true
-    t1: "My Little Lover - Hello Again～昔からある場所～"
-    t2: "달콤한 목소리 My Little Lover의 라이브"
+    t1: "My Little Lover「Hello, Again 〜昔からある場所〜」"
+    t2: "뮤직비디오"
     uid: helloagain
-    vid: lV6mRpmEEIs
+    vid: RkF5_BpBQU4
     dir: JPop
   -
     ver: 1
