@@ -46,7 +46,7 @@
 <ruby>靜<rt>しずか</rt></ruby>けさに<ruby>包<rt>つつ</rt></ruby>まれていよう<br>
 고요함에 싸이고 있어<br>
 ---<br>
-<ruby>不<rt>ふ</rt></ruby><ruby>樣<rt>よう</rt></ruby>な<ruby>塗<rt>ぬ</rt></ruby>り<ruby>繪<rt>え</rt></ruby>のようなあの<ruby>街<rt>まち</rt></ruby>も<br>
+<ruby>不<rt>ふ</rt></ruby><ruby>樣<rt>ざま</rt></ruby>な<ruby>塗<rt>ぬ</rt></ruby>り<ruby>繪<rt>え</rt></ruby>のようなあの<ruby>街<rt>まち</rt></ruby>も<br>
 보기 흉하게 윤곽만 그린 그림 같은 그 길도<br>
 <ruby>花<rt>はな</rt></ruby>びらに<ruby>染<rt>そ</rt></ruby>まってゆくのだろう<br>
 꽃잎에 물들어 가겠지<br>
