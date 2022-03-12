@@ -2,6 +2,15 @@ version: 1
 items:
   -
     dir: JPop
+    uid: kirinji_jikanganai
+    vid: hauwAFDyjgI
+    ver: 1
+    enabled: true
+    default: true
+    t1: KIRINJI - 時間がない
+    t2: 키린지 - 시간이 없어
+  -
+    dir: JPop
     uid: kyary_ponponpon
     vid: yzC4hFK5P3g
     ver: 1
