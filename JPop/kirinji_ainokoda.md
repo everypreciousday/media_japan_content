@@ -57,22 +57,28 @@
 땅의 끝에서<br>
 ---<br>
 <ruby>灼<rt>や</rt></ruby>け<ruby>付<rt>つ</rt></ruby>く<ruby>日差<rt>ひざ</rt></ruby>し <br>
+타들어 가는 햇볕
 ひるむ<ruby>背中<rt>せなか</rt></ruby> <br>
+풀이 죽은 등
 <ruby>立<rt>た</rt></ruby>ちつくした<br>
-타들어 가는 햇볕 풀이 죽은 등으로 우두커니 서 있었어<br>
+우두커니 서 있었어<br>
 ---<br>
 ほおをつたう<br>
+뺨을 타고　내리는 
 <ruby>汗<rt>あせ</rt></ruby>をぬぐい<br>
+땀을 닦고
 <ruby>踏み出<rt>ふみだ</rt></ruby>せば<br>
-뺨을 타고 내리는 땀을 닦고 걸음을 내딛으면<br>
+걸음을 내딛으면<br>
 ---<br>
 <ruby>胸<rt>むね</rt></ruby>の<ruby>傷<rt>きず</rt></ruby>から<br>
+가슴 속 상처로부터
 <ruby>夕陽<rt>ゆうひ</rt></ruby>が<ruby>溢<rt>あふ</rt></ruby>れて<br>
-가슴 속 상처로부터 석양이 흘러 넘쳐<br>
+석양이 흘러 넘쳐<br>
 ---<br>
 <ruby>軋<rt>きし</rt></ruby>む<ruby>列<rt>れつ</rt></ruby><ruby>車<rt>くるま</rt></ruby>を<br>
+삐걱거리는 열차를
 <ruby>追<rt>お</rt></ruby>いかけて<br>
-삐걱거리는 열차를 뒤쫓아<br>
+뒤쫓아<br>
 ---<br>
 <ruby>赤<rt>あか</rt></ruby>に<ruby>浸<rt>ひた</rt></ruby>す <br>
 빨강에 담근<br>
