@@ -13,7 +13,7 @@ Killer tune<br>
 춤추고 싶어 <br>
 <ruby>歌<rt>うた</rt></ruby>いたいの<br>
 노래하고 싶어<br>
-That's all I want<br>
+That is all I want<br>
 ---<br>
 <ruby>すれ違<rt>すれちが</rt></ruby>って<br>
 엇갈려 <br>
@@ -58,7 +58,7 @@ Killer tune<br>
 춤추고 싶어<br>
 <ruby>歌<rt>うた</rt></ruby>いたいの<br>
 노래하고 싶어<br>
-That's all I want<br>
+That is all I want<br>
 ---<br>
 <ruby>すれ違<rt>すれちが</rt></ruby>って<ruby>振り返<rt>ふりかえ</rt></ruby>ったなら<br>
 엇갈려 뒤돌아본다면<br>
@@ -96,7 +96,7 @@ That's all I want<br>
 ---<br>
 あの<ruby>夢<rt>ゆめ</rt></ruby> あの<ruby>感情<rt>かんじょう</rt></ruby> <ruby>遠<rt>とお</rt></ruby>ざかってゆく<br>
 그 꿈 그 감정 멀어져만 가<br>
-It's so faraway ah<br>
+It is so faraway ah<br>
 ---<br>
 <ruby>星<rt>ほし</rt></ruby>は<ruby>帰<rt>かえ</rt></ruby>った <br>
 별은 돌아갔어<br>
