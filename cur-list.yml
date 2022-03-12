@@ -3,15 +3,6 @@ items:
   - 
     dir: JPop
     uid: kirinji_alien
-    vid: JNEtlSSKQIs
-    ver: 1
-    enabled: true
-    default: true
-    t1: KIRINJI (키린지) - エイリアンズ (에일리언즈) / Live @Budokan
-    t2: 몽환적인 목소리, 라이브에서도 그대로!
-  - 
-    dir: JPop
-    uid: kirinji_alien
     vid: SGmSCtfMp8M
     ver: 1
     enabled: true
