@@ -2,6 +2,14 @@ version: 1
 items:
   - 
     dir: JPop
+    uid: kirinji_killer
+    vid: 05Ky7lERIoY
+    enabled: true
+    default: true
+    t1: "KIRINJI - killer tune kills me feat. YonYon "
+    t2: "키린지 노래 중간에 나오는 한국 랩!"
+  - 
+    dir: JPop
     uid: kirinji_alien
     vid: JNEtlSSKQIs
     ver: 1
