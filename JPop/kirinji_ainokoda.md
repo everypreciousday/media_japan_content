@@ -37,7 +37,7 @@
 <ruby>春<rt>はる</rt></ruby>の<ruby>宵<rt>よい</rt></ruby> <br>
 봄의 초저녁<br>
 <ruby>光<rt>ひかり</rt></ruby>の<ruby>夏<rt>なつ</rt></ruby> <br>
-비츼 여름<br>
+빛의 여름<br>
 <ruby>途切<rt>とぎ</rt></ruby>れたフィルム<br>
 끊겨버린 필름<br>
 ---<br>
