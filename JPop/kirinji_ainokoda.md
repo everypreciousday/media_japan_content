@@ -28,16 +28,16 @@
 너의 고독<br>
 ---<br>
 その<ruby>淸<rt>すが</rt></ruby>しさに<br>
-그 깨끗함에
+그 깨끗함에<br>
 <ruby>心<rt>こころ</rt></ruby>うばわれ<br>
 마음을 빼앗겨<br>
 <ruby>激<rt>はげ</rt></ruby>しく<ruby>求<rt>もと</rt></ruby>めた<ruby>記憶<rt>きおく</rt></ruby><br>
 격하게 원했던 기억<br>
 ---<br>
 <ruby>春<rt>はる</rt></ruby>の<ruby>宵<rt>よい</rt></ruby> <br>
-봄의 초저녁
+봄의 초저녁<br>
 <ruby>光<rt>ひかり</rt></ruby>の<ruby>夏<rt>なつ</rt></ruby> <br>
-비츼 여름
+비츼 여름<br>
 <ruby>途切<rt>とぎ</rt></ruby>れたフィルム<br>
 끊겨버린 필름<br>
 ---<br>
@@ -75,9 +75,9 @@
 삐걱거리는 열차를 뒤쫓아<br>
 ---<br>
 <ruby>赤<rt>あか</rt></ruby>に<ruby>浸<rt>ひた</rt></ruby>す <br>
-빨강에 담근
+빨강에 담근<br>
 <ruby>靑<rt>あお</rt></ruby>が<ruby>散<rt>ち</rt></ruby>る <br>
-파랑이 번지는
+파랑이 번지는<br>
 <ruby>夜<rt>よる</rt></ruby>に<ruby>沈<rt>しず</rt></ruby>む<br>
 밤이 지고<br>
 ---<br>
