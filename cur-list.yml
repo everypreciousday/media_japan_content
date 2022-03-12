@@ -11,7 +11,7 @@ items:
     t2: "몽환적인 목소리, 라이브에서도 그대로!"
   - 
     dir: JPop
-    uid: kirinji_alien
+    uid: kirinji_alien2
     vid: SGmSCtfMp8M
     ver: 1
     enabled: true
@@ -20,7 +20,7 @@ items:
     t2: "키린지 에얼리언 라이브, 이 목소리, 음색 리얼?"
   - 
     dir: JPop
-    uid: kirinji_alien
+    uid: kirinji_alien3
     vid: mNu85yWnSPk
     ver: 1
     enabled: true
