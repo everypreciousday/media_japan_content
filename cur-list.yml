@@ -2,6 +2,14 @@ version: 1
 items:
   - 
     dir: JPop
+    uid: kirinji_ainokoda
+    vid: xAZC6iEm8QM
+    enabled: true
+    default: true
+    t1: "KIRINJI (키린지) - 愛のCoda (사랑의 Coda)"
+    t2: "사랑의 코다"
+  - 
+    dir: JPop
     uid: kirinji_killer
     vid: 05Ky7lERIoY
     enabled: true
