@@ -15,9 +15,9 @@
 <ruby>果汁<rt>かじゅう</rt></ruby>は<ruby>酸<rt>す</rt></ruby>っぱい<br>
 과즙은 셔<br>
 ---<br>
-<ruby>今日<rt>きょう</rt></ruby>も<ruby>三振<rt>さんしん<br>
+<ruby>今日<rt>きょう</rt></ruby>も<ruby>三振<rt>さんしん</rt></ruby><br>
 오늘도 삼진 아웃<br>
-</rt></ruby> <ruby>辛酸<rt>しんさん</rt></ruby>なめた<br>
+<ruby>辛酸<rt>しんさん</rt></ruby>なめた<br>
 쓰라림을 빨았어<br>
 ---<br>
 <ruby>弱虫<rt>よわむし</rt></ruby><ruby>毛虫<rt>けむし</rt></ruby>のテロリスト<br>
