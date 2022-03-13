@@ -2,6 +2,14 @@ version: 1
 items:
   - 
     dir: JPop
+    uid: kirinji_ainotohiko
+    vid: hNdZT-LFnYQ
+    enabled: true
+    default: true
+    t1: "KIRINJI - AIの逃避行 feat. Charisma.com"
+    t2: "중독성 있는 리듬, 라이브 버전"
+  - 
+    dir: JPop
     uid: kirinji_ainokoda
     vid: xAZC6iEm8QM
     enabled: true
