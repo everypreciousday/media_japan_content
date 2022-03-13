@@ -2,6 +2,14 @@ version: 1
 items:
   - 
     dir: JPop
+    uid: kirinji_lemonade
+    vid: r1QUpNcE58s
+    enabled: true
+    default: true
+    t1: "KIRINJI - LEMONADE"
+    t2: "레모네이드"
+  - 
+    dir: JPop
     uid: kirinji_ainotohiko
     vid: hNdZT-LFnYQ
     enabled: true
