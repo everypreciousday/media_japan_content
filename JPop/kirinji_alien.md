@@ -1,6 +1,6 @@
 <h1>kirinji_alien.md</h1><br>
 <h2>content</h2><br>
-<ruby>遥<rt>はる</rt></ruby>か<ruby>空<rt>そら</rt></ruby>に<ruby>旅客機<rt>りょかくき</rt></ruby> <br>
+<ruby>遥<rt>はる</rt></ruby>か<ruby>空<rt>そら</rt></ruby>にボーイング<br>
 아득히 먼 하늘에 보잉기<br>
 <ruby>音<rt>おと</rt></ruby>もなく<br>
 소리도 없이<br>
