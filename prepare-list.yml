@@ -25,3 +25,59 @@ items:
     default: false
     t1: "나마시마 미카 - STARS (Live Unplugged)"
     t2: "라이브 버전"
+- 
+    dir: JPop
+    uid: kimihaqueen
+    vid: 7a5RoNhIbYE
+    enabled: true
+    default: true
+    t1: "ぷにぷに電機『君はQueen』OfficialMV"
+    t2: "너는 퀸"
+  - 
+    dir: JPop
+    uid: yonyon_overflow
+    vid: oJQgQbyJXSQ
+    enabled: true
+    default: true
+    t1: "YonYon, 一十三十一 (Hitomitoi) -     MV"
+    t2: "YonYon의 매력"
+  - 
+    dir: JPop
+    uid: yurie_justajoke
+    vid: A4uO2pGT5Vw
+    enabled: true
+    default: true
+    t1: "[City Pop] Yurie Kokubu - Just A Joke"
+    t2: "tokyo city pop"
+  - 
+    dir: JPop
+    uid: fishmans_night_cruising
+    vid: FL7xO92hRDI
+    enabled: true
+    default: true
+    t1: "night cruising - fishmans"
+    t2: "tokyo city pop"
+  - 
+    dir: JPop
+    uid: kirinji_goodday
+    vid: jRRBaTaYXe0
+    enabled: true
+    default: true
+    t1: "KIRINJI (키린지) - GoodDay, GoodBye (굿데이,굿바이) / Live @Budokan"
+    t2: "tokyo city pop"
+  - 
+    dir: JPop
+    uid: kirinji_drifter
+    vid: LHF_mFLeEJc
+    enabled: true
+    default: true
+    t1: "キリンジ - Drifter"
+    t2: "tokyo city pop"
+  - 
+    dir: JPop
+    uid: wakareno_yokan
+    vid: MiI2HBYLCuQ
+    enabled: true
+    default: true
+    t1: "Hanaregumi - Wakareno Yokan"
+    t2: "이별의 예감"

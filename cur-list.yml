@@ -2,6 +2,14 @@ version: 1
 items:
   - 
     dir: JPop
+    uid: tendre_document
+    vid: ufPJo1eCW2c
+    enabled: true
+    default: true
+    t1: "TENDRE - DOCUMENT (Official Music Video)"
+    t2: "기분좋은 멜로디"
+  - 
+    dir: JPop
     uid: luckytapes_mood
     vid: 0cn1YTpDIUg
     enabled: true
