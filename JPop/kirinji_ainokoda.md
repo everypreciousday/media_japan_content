@@ -43,7 +43,7 @@
 ---<br>
 すべてを<ruby>覆<rt>おお</rt></ruby>いかくす<ruby>雲<rt>くも</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>で<br>
 모든 것을 덮어버리는 궁궐에서<br>
-<ruby>靜<rt>しずか</rt></ruby>けさに<ruby>包<rt>つつ</rt></ruby>まれていよう<br>
+<ruby>靜<rt>しず</rt></ruby>けさに<ruby>包<rt>つつ</rt></ruby>まれていよう<br>
 고요함에 싸이고 있어<br>
 ---<br>
 <ruby>不<rt>ふ</rt></ruby><ruby>樣<rt>ざま</rt></ruby>な<ruby>塗<rt>ぬ</rt></ruby>り<ruby>繪<rt>え</rt></ruby>のようなあの<ruby>街<rt>まち</rt></ruby>も<br>
