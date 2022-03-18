@@ -6,7 +6,7 @@
 <ruby>上手<rt>うま</rt></ruby>く<ruby>生<rt>い</rt></ruby>きてきたんだし<br>
 잘 살아온것같아<br>
 ---<br>
-<ruby>金<rt>きん</rt></ruby>も<ruby>名誉<rt>めいよ</rt></ruby>もないけどさ<br>
+<ruby>金<rt>かね</rt></ruby>も<ruby>名誉<rt>めいよ</rt></ruby>もないけどさ<br>
 돈도 명예도 없지만<br>
 ---<br>
 <ruby>好<rt>す</rt></ruby>きなことばっか<ruby>追い掛<rt>おいか</rt></ruby>け<ruby>回<rt>まわ</rt></ruby>して<ruby>死<rt>し</rt></ruby>にたい<br>
@@ -68,7 +68,7 @@
 ここまでは<ruby>上手<rt>うま</rt></ruby>く<ruby>生<rt>い</rt></ruby>きてきたんだし<br>
 여기까지는 잘 살아온것같아<br>
 ---<br>
-<ruby>金<rt>きん</rt></ruby>も<ruby>名誉<rt>めいよ</rt></ruby>もないけどさ<br>
+<ruby>金<rt>かね</rt></ruby>も<ruby>名誉<rt>めいよ</rt></ruby>もないけどさ<br>
 돈도 명예도 없지만<br>
 ---<br>
 <ruby>好<rt>す</rt></ruby>きなことばっか<ruby>追い掛<rt>おいか</rt></ruby>け<ruby>回<rt>まわ</rt></ruby>して<ruby>死<rt>し</rt></ruby>にたい<br>
@@ -107,7 +107,7 @@
 ここまでは<ruby>上手<rt>うま</rt></ruby>く<ruby>生<rt>い</rt></ruby>きてきたんだし<br>
 여기까지는 잘 살아온것같아<br>
 ---<br>
-<ruby>金<rt>きん</rt></ruby>も<ruby>名誉<rt>めいよ</rt></ruby>もないけどさ<br>
+<ruby>金<rt>かね</rt></ruby>も<ruby>名誉<rt>めいよ</rt></ruby>もないけどさ<br>
 돈도 명예도 없지만<br>
 ---<br>
 <ruby>好<rt>す</rt></ruby>きなことばっか<ruby>追い掛<rt>おいか</rt></ruby>け<ruby>回<rt>まわ</rt></ruby>して<ruby>死<rt>し</rt></ruby>にたい<br>
