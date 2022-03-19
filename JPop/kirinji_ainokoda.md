@@ -1,4 +1,25 @@
 <h1>kirinji_ainokoda.md</h1><br>
+<h2>voca</h2><br>
+うなり<br>
+으르렁거리는 소리, 신음 소리, 윙윙[붕붕]거리는 소리.<br>
+うなりをあげる<br>
+윙 소리를 내다<br>
+---<br>
+しずく<br>
+물방울<br>
+<ruby>愛<rt>あい</rt></ruby>のしずく<br>
+사랑의 물방울<br>
+---<br>
+<ruby>宵<rt>よい</rt></ruby><br>
+초저녁,밤<br>
+<ruby>春<rt>はる</rt></ruby>の<ruby>宵<rt>よい</rt></ruby> <br>
+봄의 초저녁<br>
+---<br>
+<ruby>塗<rt>ぬ</rt></ruby>り<ruby>絵<rt>え</rt></ruby><br>
+색칠을 하도록 윤곽만 그려놓은 그림<br>
+<ruby>不<rt>ふ</rt></ruby><ruby>樣<rt>ざま</rt></ruby>な<ruby>塗<rt>ぬ</rt></ruby>り<ruby>繪<rt>え</rt></ruby>のようなあの<ruby>街<rt>まち</rt></ruby>も<br>
+보기 흉하게 윤곽만 그린 그림 같은 그 길도<br>
+---<br>
 <h2>content</h2><br>
 <ruby>雨<rt>あめ</rt></ruby>に<ruby>煙<rt>けむ</rt></ruby>った<br>
 비 때문에 흐리게 보이는<br>
@@ -42,7 +63,7 @@
 끊겨버린 필름<br>
 ---<br>
 すべてを<ruby>覆<rt>おお</rt></ruby>いかくす<ruby>雲<rt>くも</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>で<br>
-모든 것을 덮어버리는 궁궐에서<br>
+모든 것을 덮어버리는 구름 위에서<br>
 <ruby>靜<rt>しず</rt></ruby>けさに<ruby>包<rt>つつ</rt></ruby>まれていよう<br>
 고요함에 싸이고 있어<br>
 ---<br>
