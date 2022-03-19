@@ -57,26 +57,26 @@
 땅의 끝에서<br>
 ---<br>
 <ruby>灼<rt>や</rt></ruby>け<ruby>付<rt>つ</rt></ruby>く<ruby>日差<rt>ひざ</rt></ruby>し <br>
-타들어 가는 햇볕
+타들어 가는 햇볕<br>
 ひるむ<ruby>背中<rt>せなか</rt></ruby> <br>
-풀이 죽은 등
+풀이 죽은 등<br>
 <ruby>立<rt>た</rt></ruby>ちつくした<br>
 우두커니 서 있었어<br>
 ---<br>
 ほおをつたう<br>
-뺨을 타고　내리는 
+뺨을 타고　내리는<br>
 <ruby>汗<rt>あせ</rt></ruby>をぬぐい<br>
-땀을 닦고
+땀을 닦고<br>
 <ruby>踏み出<rt>ふみだ</rt></ruby>せば<br>
 걸음을 내딛으면<br>
 ---<br>
 <ruby>胸<rt>むね</rt></ruby>の<ruby>傷<rt>きず</rt></ruby>から<br>
-가슴 속 상처로부터
+가슴 속 상처로부터<br>
 <ruby>夕陽<rt>ゆうひ</rt></ruby>が<ruby>溢<rt>あふ</rt></ruby>れて<br>
 석양이 흘러 넘쳐<br>
 ---<br>
 <ruby>軋<rt>きし</rt></ruby>む<ruby>列<rt>れつ</rt></ruby><ruby>車<rt>くるま</rt></ruby>を<br>
-삐걱거리는 열차를
+삐걱거리는 열차를<br>
 <ruby>追<rt>お</rt></ruby>いかけて<br>
 뒤쫓아<br>
 ---<br>
@@ -96,7 +96,7 @@
 <ruby>愛<rt>あい</rt></ruby>に<ruby>生<rt>い</rt></ruby>きる<ruby>勇氣<rt>ゆうき</rt></ruby>もない<br>
 사랑으로 살아갈 용기도 없어<br>
 ---<br>
-<ruby>不<rt>ふ</rt></ruby><ruby>樣<rt>よう</rt></ruby>な<ruby>塗<rt>ぬ</rt></ruby>り<ruby>繪<rt>え</rt></ruby>のような<ruby>人生<rt>じんせい</rt></ruby>が<br>
+<ruby>不<rt>ふ</rt></ruby><ruby>樣<rt>ざま</rt></ruby>な<ruby>塗<rt>ぬ</rt></ruby>り<ruby>繪<rt>え</rt></ruby>のような<ruby>人生<rt>じんせい</rt></ruby>が<br>
 보기 흉하게 윤곽만 그린 그림 같은 인생이<br>
 ---<br>
 <ruby>花<rt>はな</rt></ruby>びらに<ruby>染<rt>そ</rt></ruby>まっていたあの<ruby>夏<rt>なつ</rt></ruby><br>
@@ -119,7 +119,7 @@
 やわらかな<ruby>心<rt>こころ</rt></ruby>を<ruby>石<rt>いし</rt></ruby>に<ruby>變<rt>か</rt></ruby>えて<br>
 부드러운 마음을 돌맹이로 바꾸어<br>
 ---<br>
-<ruby>不<rt>ふ</rt></ruby><ruby>樣<rt>よう</rt></ruby>な<ruby>塗<rt>ぬ</rt></ruby>り<ruby>繪<rt>え</rt></ruby>のような<ruby>街<rt>まち</rt></ruby>でさえ<br>
+<ruby>不<rt>ふ</rt></ruby><ruby>樣<rt>ざま</rt></ruby>な<ruby>塗<rt>ぬ</rt></ruby>り<ruby>繪<rt>え</rt></ruby>のような<ruby>街<rt>まち</rt></ruby>でさえ<br>
 보기 흉하게 윤곽만 그린 그림 같은 길에서조차<br>
 ---<br>
 <ruby>花<rt>はな</rt></ruby>びらに<ruby>染<rt>そ</rt></ruby>まるというのに<br>
@@ -131,7 +131,7 @@
 <ruby>淺<rt>あさ</rt></ruby>い<ruby>夢<rt>ゆめ</rt></ruby><ruby>醉<rt>よ</rt></ruby>えないあなたのように<br>
 얕은 꿈에 취할 수 없는 너처럼<br>
 ---<br>
-<ruby>行き先<rt>いきさき</rt></ruby>も<ruby>理由<rt>りゆう</rt></ruby>も<ruby>持<rt>も</rt></ruby>たない<ruby>孤<rt>こ</rt></ruby><ruby>獨<rt>とく</rt></ruby>を<br>
+<ruby>行き先<rt>いきさき</rt></ruby>もわけも<ruby>持<rt>も</rt></ruby>たない<ruby>孤<rt>こ</rt></ruby><ruby>獨<rt>とく</rt></ruby>を<br>
 갈 곳도 이유도 가지고 있지 않은 고독을<br>
 <ruby>友<rt>とも</rt></ruby>として<br>
 벗삼아<br>
