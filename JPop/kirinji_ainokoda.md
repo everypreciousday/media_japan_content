@@ -20,6 +20,32 @@
 <ruby>不<rt>ふ</rt></ruby><ruby>樣<rt>ざま</rt></ruby>な<ruby>塗<rt>ぬ</rt></ruby>り<ruby>繪<rt>え</rt></ruby>のようなあの<ruby>街<rt>まち</rt></ruby>も<br>
 보기 흉하게 윤곽만 그린 그림 같은 그 길도<br>
 ---<br>
+ひるむ<br>
+기가 죽다,질리다<br>
+ひるむ<ruby>背中<rt>せなか</rt></ruby><br>
+풀이 죽은 등<br>
+<ruby>敵<rt>てき</rt></ruby>の<ruby>大軍<rt>たいぐん</rt></ruby>を<ruby>見<rt>み</rt></ruby>て<ruby>怯<rt>ひる</rt></ruby>む
+적의 대군을 보고 기가 꺾이다
+---<br>
+つたう<br>
+어떤 것을 매개로 또는 따라서 이동하다; 타다.<br>
+<ruby>尾根<rt>おね</rt></ruby>を<ruby>伝<rt>つた</rt></ruby>って<ruby>進<rt>すす</rt></ruby>む<br>
+산등성이를 타고 가다<br>
+<ruby>窓<rt>まど</rt></ruby>をつたう<br><ruby>愛<rt>あい</rt></ruby>のしずく<br>
+창문을 타는 사랑의 물방울<br>
+ほおをつたう<ruby>汗<rt>あせ</rt></ruby>をぬぐい<br>
+뺨을 타고　내리는 땀을 닦고<br>
+---<br>
+きしむ <br>
+삐걱거리다.<br>
+<ruby>軋<rt>きし</rt></ruby>む<ruby>列車<rt>れっしゃ</rt></ruby>を<br>
+삐걱거리는 열차를<br>
+---<br>
+<ruby>醸<rt>かも</rt></ruby>す
+빚다,양조하다,만들어 내다,자아내다
+<ruby>釀<rt>かも</rt></ruby>し<ruby>出<rt>だ</rt></ruby>されることのない<ruby>美酒<rt>びしゅ</rt></ruby>を<br>
+자아내질리 없는 좋은 술을<br>
+---<br>
 <h2>content</h2><br>
 <ruby>雨<rt>あめ</rt></ruby>に<ruby>煙<rt>けむ</rt></ruby>った<br>
 비 때문에 흐리게 보이는<br>
@@ -79,7 +105,7 @@
 ---<br>
 <ruby>灼<rt>や</rt></ruby>け<ruby>付<rt>つ</rt></ruby>く<ruby>日差<rt>ひざ</rt></ruby>し <br>
 타들어 가는 햇볕<br>
-ひるむ<ruby>背中<rt>せなか</rt></ruby> <br>
+ひるむ<ruby>背中<rt>せなか</rt></ruby><br>
 풀이 죽은 등<br>
 <ruby>立<rt>た</rt></ruby>ちつくした<br>
 우두커니 서 있었어<br>
@@ -96,7 +122,7 @@
 <ruby>夕陽<rt>ゆうひ</rt></ruby>が<ruby>溢<rt>あふ</rt></ruby>れて<br>
 석양이 흘러 넘쳐<br>
 ---<br>
-<ruby>軋<rt>きし</rt></ruby>む<ruby>列<rt>れつ</rt></ruby><ruby>車<rt>くるま</rt></ruby>を<br>
+<ruby>軋<rt>きし</rt></ruby>む<ruby>列車<rt>れっしゃ</rt></ruby>を<br>
 삐걱거리는 열차를<br>
 <ruby>追<rt>お</rt></ruby>いかけて<br>
 뒤쫓아<br>
@@ -111,7 +137,7 @@
 <ruby>星<rt>ほし</rt></ruby>がこぼれた<br>
 별이 흘러 넘쳤어<br>
 ---<br>
-<ruby>歸<rt>き</rt></ruby>りのチケットを<ruby>破<rt>やぶ</rt></ruby>る<ruby>意<rt>い</rt></ruby><ruby>氣<rt>き</rt></ruby><ruby>地<rt>ち</rt></ruby>も<br>
+帰りのチケットを<ruby>破<rt>やぶ</rt></ruby>る<ruby>意<rt>い</rt></ruby><ruby>氣<rt>き</rt></ruby><ruby>地<rt>ち</rt></ruby>も<br>
 돌아오는 티켓을 찢을 패기도<br>
 ---<br>
 <ruby>愛<rt>あい</rt></ruby>に<ruby>生<rt>い</rt></ruby>きる<ruby>勇氣<rt>ゆうき</rt></ruby>もない<br>
