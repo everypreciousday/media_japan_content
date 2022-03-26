@@ -2,6 +2,22 @@ version: 1
 items:
   - 
     dir: JPop
+    uid: kirinji_sweetsoul
+    vid: ekzE4TppHmI
+    enabled: true
+    default: true
+    t1: "Kirinji - Sweet Soul"
+    t2: "달콤한 가사 끝판왕"
+  - 
+    dir: JPop
+    uid: kirinji_sweetsoul_live
+    vid: VLxbdVDAm8c
+    enabled: true
+    default: true
+    t1: "Kirinji - Sweet Soul live"
+    t2: "스윗 소울 라이브"
+  - 
+    dir: JPop
     uid: tendre_document
     vid: ufPJo1eCW2c
     enabled: true
