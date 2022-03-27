@@ -11,6 +11,11 @@
 밤마다 괴로워했던<br>
 <ruby>魂<rt>たましい</rt></ruby>が<br>
 영혼이<br>
+---<br>
+<ruby>矛盾<rt>むじゅん</rt></ruby><br>
+모순<br>
+<ruby>小<rt>ちい</rt></ruby>さな<ruby>矛盾<rt>むじゅん</rt></ruby>も<br>
+작은 모순도<br>
 <h2>content</h2><br>
 <ruby>眞<rt>ま</rt></ruby><ruby>夜中<rt>よなか</rt></ruby>が<ruby>今<rt>いま</rt></ruby><br>
 한밤중이 지금<br>
