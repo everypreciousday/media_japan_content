@@ -1,4 +1,9 @@
 <h1>kirinji_alien.md</h1><br>
+<h2>voca</h2><br>
+<ruby>遥<rt>はる</rt></ruby>か
+아득하게 먼 모양, 아득히
+<ruby>遥<rt>はる</rt></ruby>か<ruby>空<rt>そら</rt></ruby>にボーイング<br>
+아득히 먼 하늘에 보잉기<br>
 <h2>content</h2><br>
 <ruby>遥<rt>はる</rt></ruby>か<ruby>空<rt>そら</rt></ruby>にボーイング<br>
 아득히 먼 하늘에 보잉기<br>
