@@ -580,15 +580,6 @@ items:
     ver: 1
     enabled: true
     default: false
-    t1: "マルコメ 料亭の味 即席生みそ汁 単身赴任篇 90秒 "
-    t2: "단신부임한 아빠와 딸 둘의 요리 단편 CM  "
-    uid: marukome
-    vid: kF5SSiuZGAM
-    dir: JMedia
-  -
-    ver: 1
-    enabled: true
-    default: false
     t1: "늑대아이"
     t2: "투정거리는 늑대 아이"
     uid: manma
@@ -625,28 +616,10 @@ items:
     ver: 1
     enabled: true
     default: false
-    t1: "さつま白波「オヤジの、芋神様。」ＷＥＢムービー "
-    t2: "아버지의 고구마 신 고구마 소주 CM 영상"
-    uid: soju
-    vid: JrL1lHNon3A
-    dir: JMedia
-  -
-    ver: 1
-    enabled: true
-    default: false
     t1: "マルコメ 料亭の味 即席生みそ汁 単身赴任篇 90秒 "
     t2: "단신부임한 아빠와 딸 둘의 요리 단편 CM  "
     uid: marukome
     vid: kF5SSiuZGAM
-    dir: JMedia
-  -
-    ver: 1
-    enabled: true
-    default: false
-    t1: "늑대아이"
-    t2: "투정거리는 늑대 아이"
-    uid: manma
-    vid: r7P8KdT7YmI
     dir: JMedia
   -
     ver: 1
