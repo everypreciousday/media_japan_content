@@ -1,4 +1,9 @@
 <h1>kirinji_ainotohiko.md</h1><br>
+<h2>voca</h2><br>
+<ruby>暗<rt>くら</rt></ruby>がり<br>
+어두운 곳,남의 눈에 띄지 않음<br>
+<ruby>暗<rt>くら</rt></ruby>がりの<ruby>中<rt>なか</rt></ruby>に<br>
+어둠 속에서<br>
 <h2>content</h2><br>
 <ruby>誰<rt>だれ</rt></ruby>かを<ruby>見<rt>み</rt></ruby>た<br>
 누군갈 봤어 <br>
