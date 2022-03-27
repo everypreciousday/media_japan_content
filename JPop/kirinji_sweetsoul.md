@@ -16,6 +16,11 @@
 모순<br>
 <ruby>小<rt>ちい</rt></ruby>さな<ruby>矛盾<rt>むじゅん</rt></ruby>も<br>
 작은 모순도<br>
+---<br>
+<ruby>鼓動<rt>こどう</rt></ruby><br>
+고동<br>
+<ruby>君<rt>きみ</rt></ruby>の<ruby>鼓動<rt>こどう</rt></ruby>に<br><br>
+너의 고동에<br><br>
 <h2>content</h2><br>
 <ruby>眞<rt>ま</rt></ruby><ruby>夜中<rt>よなか</rt></ruby>が<ruby>今<rt>いま</rt></ruby><br>
 한밤중이 지금<br>
