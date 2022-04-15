@@ -24,8 +24,8 @@
 기가 죽다,질리다<br>
 ひるむ<ruby>背中<rt>せなか</rt></ruby><br>
 풀이 죽은 등<br>
-<ruby>敵<rt>てき</rt></ruby>の<ruby>大軍<rt>たいぐん</rt></ruby>を<ruby>見<rt>み</rt></ruby>て<ruby>怯<rt>ひる</rt></ruby>む
-적의 대군을 보고 기가 꺾이다
+<ruby>敵<rt>てき</rt></ruby>の<ruby>大軍<rt>たいぐん</rt></ruby>を<ruby>見<rt>み</rt></ruby>て<ruby>怯<rt>ひる</rt></ruby>む<br>
+적의 대군을 보고 기가 꺾이다<br>
 ---<br>
 つたう<br>
 어떤 것을 매개로 또는 따라서 이동하다; 타다.<br>
@@ -41,8 +41,8 @@
 <ruby>軋<rt>きし</rt></ruby>む<ruby>列車<rt>れっしゃ</rt></ruby>を<br>
 삐걱거리는 열차를<br>
 ---<br>
-<ruby>醸<rt>かも</rt></ruby>す
-빚다,양조하다,만들어 내다,자아내다
+<ruby>醸<rt>かも</rt></ruby>す<br>
+빚다,양조하다,만들어 내다,자아내다<br>
 <ruby>釀<rt>かも</rt></ruby>し<ruby>出<rt>だ</rt></ruby>されることのない<ruby>美酒<rt>びしゅ</rt></ruby>を<br>
 자아내질리 없는 좋은 술을<br>
 ---<br>
