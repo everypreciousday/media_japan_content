@@ -569,7 +569,7 @@ items:
     dir: JPop
   -
     ver: 1
-    enabled: true
+    enabled: false
     default: false
     t1: "さつま白波「オヤジの、芋神様。」ＷＥＢムービー "
     t2: "아버지의 고구마 신 고구마 소주 CM 영상"
