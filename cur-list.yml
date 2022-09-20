@@ -200,7 +200,7 @@ items:
     dir: JPop
   -
     ver: 1
-    enabled: true
+    enabled: false
     default: false
     t1: "【MEN ON STYLE 2015】Days"
     t2: "나가세 타스쿠 작사작곡의 '맨 온 스타일 2015'신곡 DAYS"
