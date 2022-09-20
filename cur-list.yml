@@ -659,7 +659,7 @@ items:
     dir: JMedia
   -
     ver: 1
-    enabled: true
+    enabled: false
     default: false
     t1: "ヤフーニュースで話題となった泣けるCM 盛岡の音楽教室 東山堂"
     t2: "아버지의 피아노 연주 눈물 나는 CM"
