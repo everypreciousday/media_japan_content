@@ -10,7 +10,7 @@ items:
     t1: 大塚 愛 / さくらんぼ
     t2: 오오츠카아이 사쿠란보 
   - 
-    ver: 12
+    ver: 13
     dir: JPop
     uid: kirinji_sweetsoul
     vid: ekzE4TppHmI
@@ -28,7 +28,7 @@ items:
     t1: "Kirinji - Sweet Soul live"
     t2: "스윗 소울 라이브"
   - 
-    ver: 1
+    ver: 2
     dir: JPop
     uid: tendre_document
     vid: ufPJo1eCW2c
@@ -121,7 +121,7 @@ items:
     dir: JPop
     uid: kirinji_jikanganai
     vid: hauwAFDyjgI
-    ver: 1
+    ver: 2
     enabled: true
     default: true
     t1: "KIRINJI - 時間がない"

@@ -19,8 +19,8 @@
 ---<br>
 <ruby>鼓動<rt>こどう</rt></ruby><br>
 고동<br>
-<ruby>君<rt>きみ</rt></ruby>の<ruby>鼓動<rt>こどう</rt></ruby>に<br><br>
-너의 고동에<br><br>
+<ruby>君<rt>きみ</rt></ruby>の<ruby>鼓動<rt>こどう</rt></ruby>に<br>
+너의 고동에<br>
 <h2>content</h2><br>
 <ruby>眞<rt>ま</rt></ruby><ruby>夜中<rt>よなか</rt></ruby>が<ruby>今<rt>いま</rt></ruby><br>
 한밤중이 지금<br>

@@ -1,5 +1,22 @@
 # how to add video
 
+## voca 추가하
+
+```
+<h2>voca</h2><br>
+<ruby>猶予<rt>ゆうよ</rt></ruby><br>
+유예<br>
+<ruby>一刻<rt>いっこく</rt></ruby>の<ruby>猶予<rt>ゆうよ</rt></ruby>もない<br>
+일각의 유예도 없는 <br>
+---<br>
+<h2>voca</h2><br>
+<ruby>猶予<rt>ゆうよ</rt></ruby><br>
+유예<br>
+<ruby>一刻<rt>いっこく</rt></ruby>の<ruby>猶予<rt>ゆうよ</rt></ruby>もない<br>
+일각의 유예도 없는 <br>
+---<br>
+```
+
 ## youtube에서 video_id 를 확인 
 
 `cur-list.yml` 에서 

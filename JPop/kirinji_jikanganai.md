@@ -1,4 +1,27 @@
 <h1>kirinji_jikanganai.md</h1><br>
+<h2>voca</h2><br>
+うつろう<br>
+옮기다, 변천하다.<br>
+うつろう<ruby>街<rt>まち</rt></ruby><br>
+변해가는 거리 <br>
+うつろう<ruby>夢<rt>ゆめ</rt></ruby><br>
+변해가는 꿈<br>
+---<br>
+<ruby>花<rt>はな</rt></ruby>びら<br>
+꽃잎<br>
+<ruby>花<rt>はな</rt></ruby>びらが<ruby>雨<rt>あめ</rt></ruby>に<ruby>散<rt>ち</rt></ruby>れど<br>
+꽃잎들이 비에 흩어져 떨어져도<br>
+---<br>
+うえに<br>
+따라서<br>
+ゆえに<ruby>愛<rt>あい</rt></ruby>は<ruby>伝<rt>つた</rt></ruby>えておこう<br>
+그러니까 사랑은 전해두자<br>
+---<br>
+<ruby>半<rt>なか</rt></ruby>ば<br>
+절반,중앙<br>
+<ruby>永遠<rt>えいえん</rt></ruby>はもう<ruby>半<rt>なか</rt></ruby>ばを<ruby>過<rt>す</rt></ruby>ぎてしまったみたい<br>
+영원은 이제 절반을 지나버린 것 같아<br>
+---<br>
 <h2>content</h2><br>
 あと<ruby>何回<rt>なんかい</rt></ruby>、<br>
 앞으로 몇 번, <br>
