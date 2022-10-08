@@ -1,6 +1,15 @@
 version: 1
 items:
   - 
+    ver: 1
+    dir: JPop
+    uid: ai_sakuranbo
+    vid: upODO6OuOOk
+    enabled: true
+    default: true
+    t1: 大塚 愛 / さくらんぼ
+    t2: 오오츠카아이 사쿠란보 
+  - 
     ver: 12
     dir: JPop
     uid: kirinji_sweetsoul
