@@ -1,4 +1,41 @@
 <h1>kirinji_lemonade.md</h1><br>
+<h2>voca</h2><br>
+<ruby>齧<rt>かじ</rt></ruby>る <br>
+베어 먹다<br>
+わたしは<ruby>齧<rt>かじ</rt></ruby>る <br>
+나는 한입 베어 물었어<br>
+---<br>
+<ruby>酸<rt>す</rt></ruby>っぱい<br>
+시다, 시큼하다.<br>
+<ruby>果汁<rt>かじゅう</rt></ruby>は<ruby>酸<rt>す</rt></ruby>っぱい<br>
+과즙은 셔<br>
+---<br>
+<ruby>辛酸<rt>しんさん</rt></ruby><br>
+괴로움과 쓰라림.<br>
+<ruby>辛酸<rt>しんさん</rt></ruby>なめた<br>
+쓰라림을 빨았어<br>
+---<br>
+<ruby>匙<rt>さじ</rt></ruby><br>
+숟가락
+一<ruby>匙<rt>さじ</rt></ruby>の<ruby>砂糖<rt>さとう</rt></ruby><br>
+한 스푼의 설탕을<br>
+---<br>
+<ruby>絞<rt>しぼ</rt></ruby>る <br>
+(쥐어)짜다.<br>
+わたしは<ruby>絞<rt>しぼ</rt></ruby>る <br>
+나는 쥐어짜<br>
+---<br>
+<h2>content</h2><br>
+<ruby>遥<rt>はる</rt></ruby>か<ruby>空<rt>そら</rt></ruby>にボーイング<br>
+아득히 먼 하늘에 보잉기<br>
+<ruby>音<rt>おと</rt></ruby>もなく<br>
+소리도 없이<br>
+---<br>
+<ruby>公団<rt>こうだん</rt></ruby>の<ruby>屋根<rt>やね</rt></ruby>の<ruby>上<rt>うえ</rt></ruby> <br>
+공단의 지붕 위<br>
+どこへ<ruby>行<rt>い</rt></ruby>く<br>
+어디로 가나<br>
+---<br>
 <h2>content</h2><br>
 <ruby>手榴弾<rt>しゅりゅうだん</rt></ruby>のピンを<br>
 수류탄의 핀을<br>
