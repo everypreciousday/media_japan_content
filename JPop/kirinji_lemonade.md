@@ -16,7 +16,7 @@
 쓰라림을 빨았어<br>
 ---<br>
 <ruby>匙<rt>さじ</rt></ruby><br>
-숟가락
+숟가락<br>
 一<ruby>匙<rt>さじ</rt></ruby>の<ruby>砂糖<rt>さとう</rt></ruby><br>
 한 스푼의 설탕을<br>
 ---<br>
