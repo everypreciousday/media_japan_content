@@ -4,6 +4,26 @@
 어두운 곳,남의 눈에 띄지 않음<br>
 <ruby>暗<rt>くら</rt></ruby>がりの<ruby>中<rt>なか</rt></ruby>に<br>
 어둠 속에서<br>
+---<br>
+<ruby>織<rp>[</rp><rt>お</rt><rp>]</rp></ruby>り<ruby>成<rp>[</rp><rt>な</rt><rp>]</rp></ruby>す<br>
+실로 짜서 만들어 내다,여러 요소로 구성하다<br>
+0と1とで<ruby>織<rt>お</rt></ruby>りなす<ruby>恋<rt>こい</rt></ruby>は<br>
+0과 1로 짜여지는 연애는<br>
+---<br>
+<ruby>喧騒<rp>[</rp><rt>けんそう</rt><rp>]</rp></ruby><br>
+떠들썩함<br>
+<ruby>喧騒<rt>けんそう</rt></ruby>の<ruby>中<rt>なか</rt></ruby>で<ruby>脱<rt>ぬ</rt></ruby>ぐベール <br>
+소란 속에서 벗는 베일 <br>
+---<br>
+<ruby>窮屈<rt>きゅうくつ</rt></ruby><br>
+갑갑함, 답답함<br>
+「ラボはもう<ruby>窮屈<rt>きゅうくつ</rt></ruby>になった」と<ruby>惑<rt>まど</rt></ruby>う<br>
+“실험실이 이젠 갑갑해” 라고 망설여<br>
+---<br>
+もはや<br>
+벌써, 이미, 어느새, 이제와서는.<br>
+もはや<ruby>誰<rt>だれ</rt></ruby>にも<ruby>訳<rt>やく</rt></ruby>せない<br>
+이미 누구라도 해석할 수 없는<br>
 <h2>content</h2><br>
 <ruby>誰<rt>だれ</rt></ruby>かを<ruby>見<rt>み</rt></ruby>た<br>
 누군갈 봤어 <br>
