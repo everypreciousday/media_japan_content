@@ -1,4 +1,26 @@
 <h1>kirinji_sweetsoul.md</h1><br>
+<h2>voca</h2><br>
+<ruby>猶予<rt>ゆうよ</rt></ruby><br>
+유예<br>
+<ruby>一刻<rt>いっこく</rt></ruby>の<ruby>猶予<rt>ゆうよ</rt></ruby>もない<br>
+일각의 유예도 없는 <br>
+---<br>
+<ruby>悶<rt>もだ</rt></ruby>える<br>
+번민하다, 몹시 고민하다<br>
+<ruby>夜<rt>よ</rt></ruby>ごと<ruby>身<rt>み</rt></ruby><ruby>悶<rt>もだ</rt></ruby>えた<br>
+밤마다 괴로워했던<br>
+<ruby>魂<rt>たましい</rt></ruby>が<br>
+영혼이<br>
+---<br>
+<ruby>矛盾<rt>むじゅん</rt></ruby><br>
+모순<br>
+<ruby>小<rt>ちい</rt></ruby>さな<ruby>矛盾<rt>むじゅん</rt></ruby>も<br>
+작은 모순도<br>
+---<br>
+<ruby>鼓動<rt>こどう</rt></ruby><br>
+고동<br>
+<ruby>君<rt>きみ</rt></ruby>の<ruby>鼓動<rt>こどう</rt></ruby>に<br>
+너의 고동에<br>
 <h2>content</h2><br>
 <ruby>眞<rt>ま</rt></ruby><ruby>夜中<rt>よなか</rt></ruby>が<ruby>今<rt>いま</rt></ruby><br>
 한밤중이 지금<br>
