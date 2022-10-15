@@ -36,7 +36,7 @@
 <ruby>是非<rt>ぜひ</rt></ruby>ともあやかりたい<br>
 꼭 덕을 입고 싶네<br>
 ---<br>
-オールデイ　オールナイト<br>
+オールデイ オールナイト<br>
 올데이 올나잇<br>
 <ruby>感謝<rt>かんしゃ</rt></ruby>の<ruby>意<rt>い</rt></ruby>を<ruby>捧<rt>ささ</rt></ruby>げるやうに<br>
 감사의 뜻을 바치는 것 처럼<br>
@@ -55,16 +55,16 @@
 ゆっくり<ruby>君<rt>きみ</rt></ruby>の<ruby>手<rt>て</rt></ruby>を<ruby>引<rt>ひ</rt></ruby>いて<ruby>飛立<rt>とびた</rt></ruby>つ<br>
 천천히 너의 손을 끌고 날아올라<br>
 ---<br>
-<ruby>本当<rt>ほんとう</rt></ruby>の<ruby>事<rt>こと</rt></ruby>と　<ruby>本当<rt>ほんとう</rt></ruby>の<ruby>事<rt>こと</rt></ruby>　だけで…<br>
+<ruby>本当<rt>ほんとう</rt></ruby>の<ruby>事<rt>こと</rt></ruby>と<ruby>本当<rt>ほんとう</rt></ruby>の<ruby>事<rt>こと</rt></ruby>だけで…<br>
 사실과 사실만으로<br>
-われわれは　<ruby>繋<rt>つな</rt></ruby>がってゆける<br>
+われわれは<ruby>繋<rt>つな</rt></ruby>がってゆける<br>
 우리는 이어져 갈 수 있어<br>
 ---<br>
-Can't you feel me？<br>
+Cant you feel me?<br>
 <ruby>身体中<rt>からだじゅう</rt></ruby>の<ruby>血<rt>ち</rt></ruby>が<ruby>集<rt>あつ</rt></ruby>まってきてる<br>
 온몸의 피가 모여들고 있어<br>
 ---<br>
-Can't you feel me？<br>
+Cant you feel me?<br>
 <ruby>身体中<rt>からだじゅう</rt></ruby>の<ruby>血<rt>ち</rt></ruby>が<ruby>集<rt>あつ</rt></ruby>まってきてる<br>
 온몸의 피가 모여들고 있어<br>
 ---<br>
