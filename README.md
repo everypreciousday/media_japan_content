@@ -1,6 +1,6 @@
 # how to add video
 
-## voca 추가하
+## voca 추가하기
 
 ```
 <h2>voca</h2><br>

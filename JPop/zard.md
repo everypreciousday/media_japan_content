@@ -1,8 +1,29 @@
 <h1>zard.txt</h1><br>
 <h2>voca</h2><br>
+ふとした<br>
+우연한; 사소한<br>
+ふとした<Ruby>瞬間<rt>しゅんかん</rt></Ruby>に<br>
+우연한 순간에<br>
+<Ruby>視線<rt>しせん</rt></Ruby>がぶつかる<br>
+시선이 부딪쳐<br>
+---<br>
+<Ruby>遥<rt>はる</rt></Ruby>か<br>
+아득하게 먼 모양： 아득히.<br>
+<Ruby>追<rt>お</rt></Ruby>いかけて<br>
+뒤쫓아요<br>
+<Ruby>遥<rt>はる</rt></Ruby>かな<Ruby><rb>夢</rb><rt>ゆめ</rt></Ruby>を<br>
+아득한 꿈을<br>
+---<br>
+<Ruby>平<rt>へい</rt></Ruby>ちゃら<br>
+걱정하지 않는 모양, 아주 쉬운 모양<br>
+<Ruby>何<rt>なに</rt></Ruby>が<Ruby><rb>起</rb><rt>お</rt></Ruby>きたって<br>
+무슨 일이 일어나도<br>
+<Ruby>平<rt>へい</rt></Ruby>ちゃらな<Ruby>顔<rt>かお</rt></Ruby>して<br>
+아무렇지 않은 얼굴을 하고<br>
+---<br>
 <h2>content</h2><br>
 負けないで - ZARD<br>
-지지 말아요 -ZARD<br>
+지지마 - ZARD<br>
 ---<br>
 ふとした<Ruby>瞬間<rt>しゅんかん</rt></Ruby>に<br>
 우연한 순간에<br>
@@ -29,7 +50,7 @@
 ---<br>
 <Ruby>負<rt>ま</rt></Ruby>けないで<br>
 지지 말아요<br>
-もう<Ruby>少<rt>もうすこ</rt></Ruby>し<br>
+もう<Ruby>少<rt>すこ</rt></Ruby>し<br>
 조금만 더<br>
 ---<br>
 <Ruby>最後<rt>さいご</rt></Ruby>まで<br>
@@ -50,7 +71,7 @@
 ---<br>
 <Ruby>何<rt>なに</rt></Ruby>が<Ruby><rb>起</rb><rt>お</rt></Ruby>きたって<br>
 무슨 일이 일어나도<br>
-ヘッチャラな<Ruby>顔<rt>かお</rt></Ruby>して<br>
+<Ruby>平<rt>へい</rt></Ruby>ちゃらな<Ruby>顔<rt>かお</rt></Ruby>して<br>
 아무렇지 않은 얼굴을 하고<br>
 ---<br>
 どうにかなるサと<br>
