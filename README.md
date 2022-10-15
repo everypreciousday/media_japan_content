@@ -9,7 +9,6 @@
 <ruby>一刻<rt>いっこく</rt></ruby>の<ruby>猶予<rt>ゆうよ</rt></ruby>もない<br>
 일각의 유예도 없는 <br>
 ---<br>
-<h2>voca</h2><br>
 <ruby>猶予<rt>ゆうよ</rt></ruby><br>
 유예<br>
 <ruby>一刻<rt>いっこく</rt></ruby>の<ruby>猶予<rt>ゆうよ</rt></ruby>もない<br>

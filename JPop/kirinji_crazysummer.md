@@ -1,4 +1,26 @@
 <h1>kirinji_crazysummer.md</h1><br>
+<h2>voca</h2><br>
+<ruby>騒<rt>ざわ</rt></ruby>めき<br>
+웅성거림; 술렁거림<br>
+こんな<ruby>騒<rt>ざわ</rt></ruby>めきの<ruby>中<rt>なか</rt></ruby>で<br>
+이런 웅성거림 속에서<br>
+<ruby>乱暴<rt>らんぼう</rt></ruby>に<ruby>愛<rt>あい</rt></ruby>した<br>
+난폭하게 사랑했어<br>
+---<br>
+<ruby>溺<rt>おぼ</rt></ruby>れる<br>
+빠지다,물에 빠지다,탐닉하다<br>
+<ruby>今<rt>いま</rt></ruby>も<ruby>僕<rt>ぼく</rt></ruby>は<br>
+지금도 나는<br>
+<ruby>溺<rt>おぼ</rt></ruby>れている<br>
+빠져 있어<br>
+---<br>
+<ruby>打<rt>う</rt></ruby>ちのめす<br>
+때려눕히다; 박살내다<br>
+<ruby>全<rt>すべ</rt></ruby>て<ruby>打<rt>う</rt></ruby>ちのめした<br>
+모든 것을 박살낸<br>
+あの<ruby>嵐<rt>あらし</rt></ruby>のような<br>
+그 폭풍과 같은<br>
+---<br>
 <h2>content</h2><br>
 <ruby>奴<rt>やつ</rt></ruby>らの<ruby>夕暮<rt>ゆうぐ</rt></ruby>れ<br>
 그들의 황혼<br>
@@ -68,7 +90,7 @@ sunset<br>
 지금도 나는 빠져있는 채로야<br>
 ---<br>
 <ruby>全<rt>すべ</rt></ruby>て<ruby>打<rt>う</rt></ruby>ちのめした<br>
-모든 것을 재기 불능하게 했어<br>
+모든 것을 박살낸<br>
 ---<br>
 あの<ruby>嵐<rt>あらし</rt></ruby>のような<br>
 그 폭풍과 같은<br>
