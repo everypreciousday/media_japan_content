@@ -12,7 +12,7 @@
 <ruby>花<rt>はな</rt></ruby>びらが<ruby>雨<rt>あめ</rt></ruby>に<ruby>散<rt>ち</rt></ruby>れど<br>
 꽃잎들이 비에 흩어져 떨어져도<br>
 ---<br>
-うえに<br>
+ゆえに<br>
 따라서<br>
 ゆえに<ruby>愛<rt>あい</rt></ruby>は<ruby>伝<rt>つた</rt></ruby>えておこう<br>
 그러니까 사랑은 전해두자<br>
