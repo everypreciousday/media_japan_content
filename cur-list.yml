@@ -3,6 +3,15 @@ items:
   - 
     ver: 1
     dir: JPop
+    uid: almond_eyes
+    vid: xB5SImW6mGA
+    enabled: true
+    default: true
+    t1: KIRINJI -Almond Eyes feat. 鎮座DOPENESS
+    t2: 랩이 멋있음
+  - 
+    ver: 1
+    dir: JPop
     uid: ai_sakuranbo
     vid: upODO6OuOOk
     enabled: true
