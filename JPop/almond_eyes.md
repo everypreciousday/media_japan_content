@@ -1,5 +1,10 @@
 <h1>almond_eyes.md</h1><br>
 <h2>voca</h2><br>
+<ruby>抗<rt>あらが</rt></ruby>う<br>
+거역하다,항거하다<br>
+<ruby>抗<rt>あらが</rt></ruby>う<ruby>事<rt>こと</rt></ruby>は<ruby>出来<rt>でき</rt></ruby>ない<br>
+거역할 수는 없어<br>
+---<br>
 <h2>content</h2><br>
 <ruby>内気<rt>うちき</rt></ruby>なふりした<br>
 내성적인 척하는<br>
