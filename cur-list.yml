@@ -1,6 +1,15 @@
 version: 1
 items:
   - 
+    ver: 1
+    dir: JPop
+    uid: kirinjidrifter
+    vid: ajNiow4596c
+    enabled: true
+    default: true
+    t1: キリンジ「Drifter」＠NHK HALL
+    t2: drifter
+  - 
     ver: 2
     dir: JPop
     uid: kirinjiloveinonline
