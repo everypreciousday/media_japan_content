@@ -1,6 +1,15 @@
 version: 1
 items:
   - 
+    ver: 1
+    dir: JPop
+    uid: kirinjiloveinonline
+    vid: W1nYTMFoW04
+    enabled: true
+    default: true
+    t1: KIRINJI - Love is on line
+    t2: 기린은 서서 잔다
+  - 
     ver: 3
     dir: JPop
     uid: almond_eyes
