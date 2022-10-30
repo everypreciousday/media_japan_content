@@ -28,13 +28,13 @@
 묶으면 괜찮을 거야<br>
 ---<br>
 ​Love is on line<br>
-love is on line<br>
+Love is on line<br>
 ---<br>
 <ruby>光<rt>ひか</rt></ruby>る<ruby>朝<rt>あさ</rt></ruby>の<ruby>訪<rt>おとず</rt></ruby>れを<ruby>待<rt>ま</rt></ruby>とう<br>
 빛나는 아침의 방문을 기다려<br>
 ---<br>
 Love is on line<br>
-love is on line<br>
+Love is on line<br>
 ---<br>
 <ruby>二人<rt>ふたり</rt></ruby>は<ruby>蜘蛛<rt>くも</rt></ruby>の<ruby>糸<rt>いと</rt></ruby>を<ruby>渡<rt>わた</rt></ruby>る<ruby>夜露<rt>よつゆ</rt></ruby>さ<br>
 두사람은 거미줄을 건너는 밤이슬<br>
@@ -55,13 +55,13 @@ love is on line<br>
 서로 친해진다면<br>
 ---<br>
 Love is on line<br>
-love is on line<br>
+Love is on line<br>
 ---<br>
 <ruby>心<rt>こころ</rt></ruby>はもう<ruby>通<rt>かよ</rt></ruby>いあってる<br>
 마음은 벌써 통하고 있어<br>
 ---<br>
 Love is on line<br>
-love is on line<br>
+Love is on line<br>
 ---<br>
 <ruby>二人<rt>ふたり</rt></ruby>は<ruby>蜘蛛<rt>くも</rt></ruby>の<ruby>糸<rt>いと</rt></ruby>を<ruby>渡<rt>わた</rt></ruby>る<ruby>夜露<rt>よつゆ</rt></ruby>さ<br>
 두 사람은 거미줄을 건너는 밤이슬<br>
@@ -76,25 +76,25 @@ love is on line<br>
 너 한사람에게 닿고 싶은 거야<br>
 ---<br>
 Love is on line<br>
-love is on line<br>
+Love is on line<br>
 ---<br>
 <ruby>心<rt>こころ</rt></ruby>はもうかよいあってる<br>
 마음은 벌써 통하고 있어<br>
 ---<br>
 Love is on line<br>
-love is on line<br>
+Love is on line<br>
 ---<br>
 <ruby>二人<rt>ふたり</rt></ruby>は<ruby>蜘蛛<rt>くも</rt></ruby>の<ruby>糸<rt>いと</rt></ruby>を<ruby>渡<rt>わた</rt></ruby>る<ruby>夜露<rt>よつゆ</rt></ruby>さ<br>
 두 사람은 거미줄을 건너는 밤이슬<br>
 ---<br>
 Love is on line<br>
-love is on line<br>
+Love is on line<br>
 ---<br>
 <ruby>君<rt>きみ</rt></ruby>は<ruby>僕<rt>ぼく</rt></ruby>を<ruby>見<rt>み</rt></ruby>つけられるかな<br>
 너는 나를 찾아낼 수 있을까<br>
 ---<br>
 Love is on line<br>
-love is on line<br>
+Love is on line<br>
 ---<br>
 <ruby>二人<rt>ふたり</rt></ruby>は<ruby>蜘蛛<rt>くも</rt></ruby>の<ruby>糸<rt>いと</rt></ruby>を<ruby>渡<rt>わた</rt></ruby>る<ruby>夜露<rt>よつゆ</rt></ruby>さ<br>
 두 사람은 거미줄을 건너는 밤이슬<br>
