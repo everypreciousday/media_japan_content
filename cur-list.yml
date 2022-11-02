@@ -3,6 +3,15 @@ items:
   - 
     ver: 1
     dir: JPop
+    uid: kirinjiutyu
+    vid: XYtZ-38JjOs
+    enabled: true
+    default: true
+    t1: KIRINJI (키린지) - うちゅうひこうしのうた (우주비행사의 노래)
+    t2: 우주비행사의 노래
+  - 
+    ver: 1
+    dir: JPop
     uid: kirinjiakudama
     vid: i-n7K25P2DQ
     enabled: true
