@@ -3,6 +3,15 @@ items:
   - 
     ver: 1
     dir: JPop
+    uid: kirinjiakudama
+    vid: i-n7K25P2DQ
+    enabled: true
+    default: true
+    t1: キリンジ 惡玉
+    t2: 惡玉
+  - 
+    ver: 1
+    dir: JPop
     uid: kirinjidrifter
     vid: ajNiow4596c
     enabled: true
