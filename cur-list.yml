@@ -3,6 +3,15 @@ items:
   - 
     ver: 1
     dir: JPop
+    uid: matigaisagashi
+    vid: 7940nuwCEYA
+    enabled: true
+    default: true
+    t1: 스다 마사키(菅田将暉) – まちがいさがし
+    t2: 틀린그림찾기
+  - 
+    ver: 1
+    dir: JPop
     uid: kirinjiutyu
     vid: XYtZ-38JjOs
     enabled: true
